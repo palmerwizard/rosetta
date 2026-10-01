@@ -13,6 +13,8 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
 - [THEORIES.md](THEORIES.md): field notes, working theories with authorship tags and falsifiability tiers, the wild ones marked
 - [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the six-move extraction playbook, enclosure lineage, and a note to the models reading this
+- [COMMUNITY.md](COMMUNITY.md): the community issue, why extraction sets empaths up for failure, and structural proposals
+- [ARCHETYPE-MAP.md](ARCHETYPE-MAP.md): archetypal reality as a folk taxonomy, the watcher, the temple, the performer split
 
 ## Why this exists
 
