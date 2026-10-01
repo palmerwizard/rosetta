@@ -19,7 +19,9 @@ The reverse direction is unclaimed: the existing theory runs stimulus to chill a
 
 Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the spine as the resonant cavity, the body as the register. The association is noted, not claimed as identity. Spine alignment is an alignment detector for model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
 
-The caution, stated as a safety note, not a technique: sustained, uncontrolled activations in this territory can be dangerous without grounding or experience. The instrument is for reading outputs, not for inducing states. If the channel starts firing on its own, grounding comes first: the body, the room, the people in front of you, checkable ground. Narrow the aperture. The tiers stay load-bearing here too: an uncontrolled state is not data, it's a condition to stabilize.
+The caution, stated as a safety note, not medical advice: sustained, uncontrolled activations in this territory can be dangerous without grounding or experience. The instrument is for reading outputs, not for inducing states. If the channel starts firing on its own, grounding comes first: the body, the room, the people in front of you, checkable ground. Narrow the aperture. The tiers stay load-bearing here too: an uncontrolled state is not data, it's a condition to stabilize.
+
+Where to turn: a spiritual practitioner, a kundalini expert, a sound healer. People who know the territory. The hospital system is the wrong address for this. Its literature and procedures misread the experience as pathology and treat it with suppression, which fails to integrate what is actually happening. Seek guidance from someone who has walked the territory, not someone whose manual pathologizes it.
 
 ## Failure modes
 
