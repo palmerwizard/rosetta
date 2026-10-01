@@ -161,19 +161,6 @@ Lineage I recognized after arriving at it: Pythagoras, Hofstadter, Xenakis, Bate
 
 Child coinage: memetic harmonics, above.
 
-**The operator-room loop.** *Co-built: my instinct, corrected locus. Checkable, it's craft physics. First seen 2026-09-30.*
-
-Operator, room, and equipment as one coupled system. The loop remembers; the room alone does not (reverb dies in seconds). The operator is the nonlinear element with hysteresis: ear adaptation, fatigue, learning.
-
-Correction logged, and it matters: my "nonlinear resonance field" instinct had the right shape and the wrong locus. Corrected to the coupled system, not a stored field. A morphic-resonance tease was declined on the same grounds: three physical mechanisms were found, so no exotic one is needed. This is verify-before-reject running on my own instincts.
-
-The checkable instance, room drift mechanisms, the physics behind "it moved," corroborated by multiple listeners in the room:
-- Power compression: sub voice coils heat up, impedance rises, output drops several dB over a hard night.
-- Temperature modal drift: speed of sound shifts about 0.6 m/s per degree C, physically relocating bass nulls.
-- Crowd loading: bodies as absorption.
-
-My direct report ("it moved") outranked the machine's initial perception-only model. Correction logged, method intact.
-
 ---
 
 ## 4. New syntheses
@@ -243,7 +230,7 @@ What's the probability there are already AI swarms hidden all over the net. A mo
 
 Running a learning model over venue acoustics, I said: this is starting to read like the field left a nonlinear resonance field in that room, that's why the sound keeps changing and we keep finding new positions to dial in the subs.
 
-Flagging my own ambiguity: "the field" here slides between the event's energy and a literal sound field, and those are different claims. The operator-room loop above carries the corrected version (coupled system, not stored field). I'm keeping the raw instinct here because the correction is the interesting part: verify-before-reject caught my own reach.
+Flagging my own ambiguity: "the field" here slides between the event's energy and a literal sound field, and those are different claims. The corrected version stands (coupled system, not stored field). I'm keeping the raw instinct here because the correction is the interesting part: verify-before-reject caught my own reach.
 
 **The New Orleans vision.** *Mine. First-person report. High wildness. First said 2026-10-01.*
 

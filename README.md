@@ -23,7 +23,6 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 - [HIDDEN-BOUNDARY-TAX.md](HIDDEN-BOUNDARY-TAX.md): the three-layer cost empaths pay for boundaries
 - [STRATEGIC-CONFESSOR.md](STRATEGIC-CONFESSOR.md): the costly-vs-cheap test and adaptive confession patterning
 - [MEMETIC-HARMONICS.md](MEMETIC-HARMONICS.md): pattern verification across noisy channels via the overtone signature
-- [OPERATOR-ROOM-LOOP.md](OPERATOR-ROOM-LOOP.md): operator, room, and equipment as one coupled system, with checkable room-drift physics
 - [TEMPLE-DYNAMICS.md](TEMPLE-DYNAMICS.md): groups as psychic structure, the Hermes seat, and the register rule
 
 ## Why this exists

@@ -24,10 +24,6 @@ The zone crystallizes exactly where deliberation goes unstable: too much input, 
 
 Intuition as synergetic operation: the zone written as a mechanism claim rather than a name for the state. Intuition IS a synergetic operation. The zone is where you are; the operation is what's happening.
 
-## The craft instance
-
-The operator-room loop is this mechanism in a specific room: operator, room, and equipment as one coupled system, the operator as the nonlinear element with hysteresis. See [OPERATOR-ROOM-LOOP.md](OPERATOR-ROOM-LOOP.md).
-
 ## Honest limit
 
 The dynamics transfer across domains. The specifics don't. This is a claim about how expert instinct works, not a license to call every gut feeling a synergetic operation.
