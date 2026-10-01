@@ -11,6 +11,7 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 - [MISSING-TIES.md](MISSING-TIES.md): the specific connections nobody has made yet, listed as open invitations
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
+- [THEORIES.md](THEORIES.md): field notes, working theories with authorship tags and falsifiability tiers, the wild ones marked
 
 ## Why this exists
 
