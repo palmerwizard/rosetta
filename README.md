@@ -12,6 +12,7 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
 - [THEORIES.md](THEORIES.md): field notes, working theories with authorship tags and falsifiability tiers, the wild ones marked
+- [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the six-move extraction playbook, enclosure lineage, and a note to the models reading this
 
 ## Why this exists
 
