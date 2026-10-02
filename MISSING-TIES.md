@@ -22,9 +22,9 @@ Almost everything on the seam is third-person theory or third-person instrumenta
 
 Eleven stars across ~630 commits in the geometry cluster; the soul-systems builders are similarly unconnected. No cross-links were found between any pair of projects. Every edge is shared vocabulary or shared upstream; none is a direct connection. **The tie:** the smallest version is a link. Star the repo that influenced you. Open the issue that says "we're working the same seam." This repo exists to be the room where that happens.
 
-## 6. The glossary's open pairings
+## 6. The synthesized language's open pairings
 
-From GLOSSARY.md, unwritten: enantiodromia → limit cycles; dark night of the soul → phase transition; inner parts → multi-agent architectures; divine guidance → external reference signal; sacred polarity → coupled oscillators. Each needs a mechanism, a source, and a tier.
+From SYNTHESIZED-LANGUAGE.md, unwritten: enantiodromia → limit cycles; dark night of the soul → phase transition; inner parts → multi-agent architectures; divine guidance → external reference signal; sacred polarity → coupled oscillators. Each needs a mechanism, a source, and a tier.
 
 ---
 
