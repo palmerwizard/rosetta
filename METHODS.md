@@ -25,7 +25,7 @@ When flooded, narrow the aperture: start with the checkable entries and earn you
 - **page-read**, someone opened the source and read it (date noted)
 - **index**, corroborated across multiple search-index sources, primary text not yet read
 
-These came from a research pass on 2026-10-01. Promote index-level entries to page-read whenever you do the reading.
+These came from a research pass on 2026-10-01. Index entries are promoted to page-read as the primary texts get read, with the reading date noted.
 
 ---
 
