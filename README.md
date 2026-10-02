@@ -6,7 +6,7 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 
 ## What is here
 
-- [GLOSSARY.md](GLOSSARY.md): the Rosetta Stone, soul terms mapped to systems terms, each with the mechanism, the source, and a falsifiability tier
+- [SYNTHESIZED-LANGUAGE.md](SYNTHESIZED-LANGUAGE.md): the Rosetta Stone, soul terms mapped to systems terms, plus the coined instruments, each with the mechanism, the source, and a falsifiability tier
 - [CONSTELLATION.md](CONSTELLATION.md): the people and projects already working this seam, and how (not) connected they are
 - [MISSING-TIES.md](MISSING-TIES.md): the specific connections nobody has made yet, listed as open invitations
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
@@ -16,14 +16,6 @@ Contemplative, mystical, and psychological language (soul, shadow, archetype, to
 - [COMMUNITY.md](COMMUNITY.md): the community issue, why extraction sets empaths up for failure, and structural proposals
 - [ARCHETYPE-MAP.md](ARCHETYPE-MAP.md): archetypal reality as a folk taxonomy, the watcher, the temple, the performer split
 - [SPINE-ALIGNMENT.md](SPINE-ALIGNMENT.md): frisson as an alignment detector, its failure modes, and the independent rhyme
-- [ZERO-TRUST-FILTER.md](ZERO-TRUST-FILTER.md): the standing epistemic posture: no authority gets a free pass
-- [PRISM-INVERSION.md](PRISM-INVERSION.md): the decision rule: cut off the extractors, give attention to the reciprocators
-- [THE-WATCHER.md](THE-WATCHER.md): metacognition as an entity that comes online, and the after-action discipline
-- [REFRACTION-ZONE.md](REFRACTION-ZONE.md): the expert-instinct state, its mechanism, and its formal backbone
-- [HIDDEN-BOUNDARY-TAX.md](HIDDEN-BOUNDARY-TAX.md): the three-layer cost empaths pay for boundaries
-- [STRATEGIC-CONFESSOR.md](STRATEGIC-CONFESSOR.md): the costly-vs-cheap test and adaptive confession patterning
-- [MEMETIC-HARMONICS.md](MEMETIC-HARMONICS.md): pattern verification across noisy channels via the overtone signature
-- [TEMPLE-DYNAMICS.md](TEMPLE-DYNAMICS.md): groups as psychic structure, the Hermes seat, and the register rule
 
 ## Why this exists
 
