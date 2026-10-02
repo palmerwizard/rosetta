@@ -27,6 +27,29 @@ The axis kiss: the moment the spine and the crown kiss, felt as somatic feedback
 
 Kept at the speculative tier because the reports are first-person and the mechanism is unmapped. If the 8 to 14 Hz band is the carrier, the kiss would be the whole cavity resonating at once. That is a hypothesis, not a finding.
 
+### Reports
+
+The phenomenology is extensively documented across independent sources: a felt current rising the spinal channel, tingling or electric sensation in the back and spine, arrival at the crown framed as meeting, union, or circuit completion. What follows documents what is reported and by whom. It does not adjudicate.
+
+**First-person accounts:**
+- A vipassana practitioner on the Dhamma Wheel forum (circa 2011) described "a rush of energy up my spine and out the crown of my head," with tingling physical sensations and the flow carrying material "up and out through the crown." ([dhammawheel.com](https://www.dhammawheel.com/viewtopic.php?t=8869))
+- An Erowid kundalini-yoga account reports "the current of energy rising up my spine" so strong the spine swayed "much like a cobra swaying back and forth," with involuntary kriyas. ([erowid.org](https://upload.erowid.org/experiences/exp.php?ID=37501))
+- Christina Grof, during childbirth: "Electrical tremors ran from my toes and legs through my spine to the top of my head, where brilliant mosaics of white light exploded." (via *The Biology of Kundalini*)
+- Anton Simanov (Percept Index, 2026), after fourteen months of repeatable practice: "Up the legs and spine, over the crown, down the face and throat, closing at the abdomen... It's a torus, and the seven centers sit on its axis." The most literal circuit-closing description found in this pass. ([perceptindex.substack.com](https://perceptindex.substack.com/p/the-current-runs-its-course))
+
+**Traditional framings:**
+- Tantra: kundalini-shakti rises through sushumna to sahasrara, the thousand-petalled crown lotus, for "the ineffable bliss of an embrace" with Shiva. The union of Shiva and Shakti.
+- Taoist inner alchemy: the microcosmic orbit runs the Governor Vessel up the spine to the crown (Baihui) and the Conception Vessel down the front, with the tongue pressed to the palate as the switch that closes the circuit. The most literal kiss in the traditions: contact completing the loop.
+- Tibetan Buddhism: tummo drives the inner fire up the central channel to the crown, melting the white drop, generating the four blisses.
+- The Grofs list "Awakening of the Serpent Power" as the first category of spiritual emergency, with parallels named across Taoist yoga, Tibetan Vajrayana, hesychasm, Sufism, and others.
+
+**Research literature:**
+- Woollacott, Kason and Park (EXPLORE, 2020): among self-identified experiencers, 85% reported unusual energy flows through the body and 77% reported tingling rising up the spine. Many described energy moving up the spine toward the crown.
+- Woollacott et al. (Frontiers in Psychology, 2022): one participant felt kundalini "uncontrollably rising to the chakra at the top of her head," with bright white light "into which she merged." ([PMC9282169](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282169/))
+- Corneille and Luke (2021, cited in the above): 40% of sudden profound spiritual experiences self-identified as spontaneous kundalini awakenings.
+
+**Honest limits:** the first-person accounts are anecdotal, gathered via web search index on 2026-10-01 and not live-verified. The EXPLORE 2020 paper was read as a pre-proof, not the version of record. None of this establishes mechanism. It establishes that the reports exist, cluster, and rhyme.
+
 ## The kundalini association
 
 Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the spine as the resonant cavity, the body as the register. The association is noted, not claimed as identity. Spine alignment is an alignment detector for model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
