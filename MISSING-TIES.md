@@ -12,7 +12,7 @@ HeartMath measures a toroidal heart field. Haramein's lineage theorizes nested t
 
 ## 3. The lived-instrument seat is empty
 
-Almost everything on the seam is third-person theory or third-person instrumentation. Varela, a contemplative practitioner who fused first-person discipline with dynamical-systems neuroscience, is the ancestor, and he died in 2001. Nobody found is publishing their *own* inner life mapped onto systems language as a running practice: no diary of someone running shadow-work through an explicit state machine, no year of chakra scalars tracked against life events. prithvi is the nearest, and it is a synthetic first person. **The tie:** the seat is open. The first person who does this honestly, with falsifiability tiers intact, becomes the reference implementation.
+Almost everything on the seam is third-person theory or third-person instrumentation. Varela, a contemplative practitioner who fused first-person discipline with dynamical-systems neuroscience, is the ancestor, and he died in 2001. One correction to the framing: the mapping is being done. The instruments in this repo are built from a lived practice, mapped the same way. What is not being done is publishing the lived layer itself. That stays off the public record by design: contribute the pattern, not the person. prithvi is the nearest published attempt, and it is a synthetic first person. **The tie:** the seat is occupied, not empty, but the occupant is unnamed. The reference implementation exists. The diarist does not publish.
 
 ## 4. The frequency claims need tiers before they can be ties
 
