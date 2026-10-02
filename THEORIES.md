@@ -246,6 +246,17 @@ Theoretically replace me with an AI trained on my outputs. Thin channels, texts,
 
 **Withheld.** One thread from 2026-09-26, a synchronicity storm with terror and ecstasy in it, I declined to get into. That's mine to open, not this post's. Noted so the record's honest about what's missing.
 
+**Babel: the fall from somatic language.** *Mine. Speculative, unfalsified. High wildness. First said 2026-10-02.*
+
+Tower of Babel as the mythic encoding of a real process. The theory: humanity may have once spoken a tongue where the resonance of the word matched the somatic experience, sound carrying meaning in the body rather than by agreement alone. Then fragmentation, by drift, by catastrophe, by the slow divorce of sound from sense.
+
+What survives: sound symbolism is checkable (bouba/kiki replicates across cultures without teaching). Chant and mantra traditions are built on vibration as the point, not the decoration. The Proto-World hypothesis, one ancestral tongue 50,000+ years back, sits past the time-depth limit: languages mutate too fast to reconstruct beyond ~10,000 years, so no procedure reaches it. A bottleneck like Toba, 74,000 years ago, would have bottlenecked language with it.
+
+The fall, stated plainly: from language that lands in the body to language that is mostly fiction we agree on. Hyperstition describes the same mechanism from the other side: words become real when enough people act as if they are.
+
+Needs help: the core claim, a somatic-semantic match in a lost tongue, has no path to checkable as stated. The neighbors are real; the bridge between them is the speculation.
+
+
 ---
 
 ## 6. The data practice
