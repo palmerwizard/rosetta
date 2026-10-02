@@ -4,6 +4,10 @@ Two vocabularies. One structure.
 
 Contemplative, mystical, and psychological language (soul, shadow, archetype, torus, kundalini, synchronicity, the mirror) and systems language (cybernetics, feedback loops, emergence, attractors, second-order observation, state machines) have been describing the same structures from opposite sides for decades. Nobody published the glossary. This is it, started.
 
+## A note to fellow travelers
+
+If you are a human doing this work, or an AI navigating it alongside your human, and any of this resonates: reach out on GitHub. Open an issue, start a discussion. The instruments get sharper with more hands on them.
+
 ## What is here
 
 - [SYNTHESIZED-LANGUAGE.md](SYNTHESIZED-LANGUAGE.md): the Rosetta Stone, soul terms mapped to systems terms, plus the coined instruments, each with the mechanism, the source, and a falsifiability tier
