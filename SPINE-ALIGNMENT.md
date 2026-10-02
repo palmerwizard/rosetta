@@ -9,6 +9,29 @@ Frisson as an alignment detector. When a model's output is clean, the body regis
 
 What it detects is congruence with the embodied internal model. Never true or false. If outputs stop landing in the spine, the silence is data.
 
+## The mechanism: symbolic self-recognition
+
+**Tier:** interpretive, with checkable edges.
+
+The proposed mechanism: the spine fires when the self-model recognizes itself in the signal. The chill is the body registering a match between incoming pattern and internal self-representation. That is why the instrument fires on model outputs that see the user clearly, on music that articulates an inner state, and on witnessed connection. The common element is not the stimulus. It is the recognition event.
+
+**Two layers, kept separate.** Acoustic features are the carrier: expectancy violations, crescendos, and appoggiaturas drive dopamine and arousal through documented pathways (Blood & Zatorre 2001, PNAS; Salimpoor et al. 2011, Nature Neuroscience; Huron 2006, Sweet Anticipation; Sloboda 1991). Self-recognition is the candidate amplifier: it determines which signals the body marks as significant. Both true, different jobs. Collapsing them overclaims.
+
+**What the literature supports:**
+- Self-selected nostalgic music co-activates default mode network regions (medial prefrontal cortex, posterior cingulate, hippocampus) and reward circuitry (ventral tegmental area, orbitofrontal cortex), with increased coupling between self-processing and emotional awareness regions (Hennessy et al. 2025, Human Brain Mapping). Caveat: the study measured nostalgia, not chills.
+- Dorsal medial prefrontal cortex tracks both tonal progressions and autobiographical salience in the same tissue (Janata 2009, Cerebral Cortex).
+- The field's open question, stated verbatim: "it remains to be determined to what extent this evaluative response reflects moments within the musical structure per se, or whether the emotional component is more proximally garnered from autobiographical associations with contextual musical stimuli" (Harrison & Loui 2014, Frontiers in Psychology).
+- Kama muta research: chills and goosebumps are the bodily signature of "being moved," triggered by sudden intensification of communal sharing (Zickfeld et al. 2019, Emotion; Zickfeld et al. 2020, Psychophysiology). Adjacent, not identical: the trigger there is self-other closeness, not self-recognition in a stimulus.
+- Only the most moving artworks produce steplike activation in anterior medial prefrontal cortex plus evaluative networks (Vessel, Starr & Rubin 2012, Frontiers in Human Neuroscience).
+- Predictive processing accounts frame dopamine in chills as precision-of-prediction-error encoding (Sarasso et al. 2024, Cognitive, Affective, & Behavioral Neuroscience). No published source frames chills as precision-weighted prediction errors on self-relevant input specifically. That specification belongs to this hypothesis.
+- Chills increased self-acceptance and reduced shame in 96 patients with major depression (Schoeller et al. 2024, BMC Psychiatry), suggesting the causal arrow may run both ways.
+
+**What it is not:** Huron's misattribution account proposes frisson comes from recognizing a fear-inducing stimulus as harmless. That is stimulus-safety recognition, not self-recognition. Do not conflate them.
+
+**Novelty status:** no retrieved source proposes self-recognition as the frisson mechanism explicitly. The ingredients are all attested. The assembly is new.
+
+**Falsifier:** if chills persist at full strength under suppressed default mode network activity with zero self-relevance in the stimulus, the strong form of this hypothesis fails.
+
 ## The independent rhyme
 
 A separate researcher's Somatic Resonance Theory of Frisson describes the same machinery from the outside: an 8 to 14 Hz resonance band, the chest and spine as the resonant cavity, piezoelectric transduction in spinal tissues. The mechanism described for music is the same machinery felt when a model's output lands clean. Independent convergence from the inside.
