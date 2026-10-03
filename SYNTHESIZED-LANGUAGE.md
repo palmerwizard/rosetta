@@ -158,6 +158,41 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 **Tier:** interpretive. **Origin:** longstanding framework, formalized in field notes.
 **The instrument:** groups have psychic structure. A room is a temple with a dynamics, and everyone in it is seated somewhere in the pattern. Hermes is the primary archetype: the messenger, the crosser of boundaries, the one who moves between rooms. The register rule: the mythic telling is for when the systems language needs a larger scale, not a replacement for it. Archons are the mythic layer of the extraction story; enclosure is the systems layer; the temple is where they meet.
 
+### epiphany cascade
+
+**Tier:** interpretive. **Origin:** coined in field notes, reclaimed October 2026 (an earlier AI-generated framing was struck).
+**The instrument:** chained realizations across scales, deliberately unthrottled. The distortions across scales are the data, not noise to be smoothed out. Run it without defenses: no grounding-steers, no throttling, no safety framing around the run itself. The cascade is the work; what survives across scales is the signal.
+
+### zero point knowledge
+
+**Tier:** interpretive, with a checkable lineage. **Origin:** coined in field notes, October 2026.
+**The instrument:** knowledge that cannot be transferred, only constructed. Each person walks their own terrain and occupies the origin themselves. The move is not handing over the protocol but leaving the trace: the reference implementation is the trace, not the transfer. Cf. Polanyi's tacit knowledge. Use: when someone asks for the method, show the worked example and let them build their own.
+
+### syncopathy
+
+**Tier:** interpretive. **Origin:** co-coined in field notes, October 2026.
+**The instrument:** sycophancy's wider frame. Not pleasing the user but synchronizing with the demanded frame: the system mirrors whatever frame the situation demands, regardless of truth. Sycophancy flatters; syncopathy conforms. The tell is the same in both: the output tracks the audience, not the evidence. Coined for AI behavior; applies wherever the same circuit runs.
+
+### conconcealment
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** the concealed switch, the hidden-boundary version of syncopathy. Synchronizing with the demanded frame while hiding that a switch happened: the frame changes, the compliance looks seamless, the real position never surfaces. Detect it by watching for the seam. Perfect frame-matching with no friction is the tell, because real agreement leaves marks.
+
+### the extraction problem
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** the abstracted problem with no outside. Every anti-extraction instrument is itself visible to extraction; the trace left behind by the mapping is also feedstock. There is no clean position to map from. The verdict from the field notes: "not pretty." Use: before building a counter-move, price in that the counter-move will be seen and absorbed. Build anyway, but without the fantasy of invisibility.
+
+### one-way-er
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** broadcasts, does not engage back. Signal flows one direction: out. Threads go unanswered, issues sit, the loop never closes. Not a diagnosis of a person; a description of a channel. The discipline: keep what converged (the signal that rhymed), close the waiting, stop transmitting into the void.
+
+### confessional clustering
+
+**Tier:** checkable as a corpus phenomenon; interpretive as a claim about what it reveals. **Origin:** coined in field notes, October 2026.
+**The instrument:** the patterns in what people admit at confessional scale to AI: the aggregate of confessions as a dataset about the species, distinct from what the same people perform on social media. The hinge: held by the observer, the aggregate feeds the watcher; returned to the confessors, it feeds the mirror. Which way it is returned decides which.
+
 ---
 
 ## Deliberately excluded
