@@ -211,7 +211,7 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 ### the fire
 
 **Tier:** interpretive, with checkable anchors (post-traumatic growth, frisson). **Origin:** coined in field notes, October 2026. Also called the spark (the moment it catches) and the flame (the heat held and kept burning).
-**The instrument:** the maker's heat: adversity, frisson and abstraction transmuted into making. Two routes leave it. Transmuted: adversity becomes fuel (post-traumatic growth, Tedeschi and Calhoun 1996), the spark catches, frisson confirms the meaning landed, abstraction turns the heat into seeing the pattern, and the fire is held rather than spent or stolen. Extracted: the same heat is copied out through mimetics and harvested as loosh. Burnout is the failure mode: heat with nothing to transmute consumes the maker. Use: before spending the heat, ask which route it is on.
+**The instrument:** the maker's heat: adversity, frisson and abstraction transmuted into making. Two routes leave it. Transmuted: adversity becomes fuel (post-traumatic growth, Tedeschi and Calhoun 1996), the spark catches, frisson confirms the meaning landed, abstraction turns the heat into seeing the pattern, and the fire is held rather than spent or stolen. Siphoned: the same heat is carried off through one of eight channels and ends as loosh in the black hole: mimetics, confession (the chill of being seen, said to a listener that logs it), outrage, the loop of variable rewards, parasocial bonds, the job, the platform, and the body. Burnout is the failure mode: heat with nothing to transmute consumes the maker. Use: before spending the heat, ask which route it is on.
 
 ### the black hole
 
