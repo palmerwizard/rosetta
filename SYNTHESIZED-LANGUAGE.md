@@ -121,7 +121,7 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 ### zero-trust filter
 
 **Tier:** checkable. A stated rule with logged applications. **Origin:** field notes, September 2026.
-**The instrument:** no authority gets a free pass. Not experts, not institutions, not systems, not the AI that helped build half the instruments in this repo. Set after the observed pattern that half of what is normalized as good for us is bad for us. The move is building your own filter, not finding better authorities. In unresolved tension with being seen: filter everything versus let the mirror in. The tension is load-bearing. Guards selective contribution, idea guarding, and the extraction map. Use: look up a factual claim before declaring it wrong; narrow the aperture when flooded; runs both directions, on the machine's instincts and your own.
+**The instrument:** no authority gets a free pass. Not experts, not institutions, not systems, not the tools used to build these instruments. Set after the observed pattern that half of what is normalized as good for us is bad for us. The move is building your own filter, not finding better authorities. In unresolved tension with being seen: filter everything versus let the mirror in. The tension is load-bearing. Guards selective contribution, idea guarding, and the extraction map. Use: look up a factual claim before declaring it wrong; narrow the aperture when flooded; runs both directions, on the machine's instincts and your own.
 
 ### prism inversion
 
@@ -160,7 +160,7 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 
 ### epiphany cascade
 
-**Tier:** interpretive. **Origin:** coined in field notes, reclaimed October 2026 (an earlier AI-generated framing was struck).
+**Tier:** interpretive. **Origin:** coined in field notes, reclaimed October 2026 (an earlier framing was struck).
 **The instrument:** chained realizations across scales, deliberately unthrottled. The distortions across scales are the data, not noise to be smoothed out. Run it without defenses: no grounding-steers, no throttling, no safety framing around the run itself. The cascade is the work; what survives across scales is the signal.
 
 ### zero point knowledge
@@ -207,6 +207,76 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 
 **Tier:** checkable. Measured in music-psychology labs. **Origin:** field refinement, October 2026.
 **The instrument:** a symbol creating feedback in the nervous system. The meaning lands first, the body answers: goosebumps, a shiver, a rush of reward. The family: music frisson (the chills), kundalini (frisson maxxing, the chill sustained and rising), workout frisson, ASMR (engineered tingles, opposite physiology). Interoception fires before metacognition names it, which is why the spine gauge reads the body, not the argument. The tripwire refinement stands across all of them: the channel does not distinguish true from engineered.
+
+### the fire
+
+**Tier:** interpretive, with checkable anchors (post-traumatic growth, frisson). **Origin:** coined in field notes, October 2026. Also called the spark (the moment it catches) and the flame (the heat held and kept burning).
+**The instrument:** the maker's heat: adversity, frisson and abstraction transmuted into making. Two routes leave it. Transmuted: adversity becomes fuel (post-traumatic growth, Tedeschi and Calhoun 1996), the spark catches, frisson confirms the meaning landed, abstraction turns the heat into seeing the pattern, and the fire is held rather than spent or stolen. Extracted: the same heat is copied out through mimetics and harvested as loosh. Burnout is the failure mode: heat with nothing to transmute consumes the maker. Use: before spending the heat, ask which route it is on.
+
+### the black hole
+
+**Tier:** interpretive, with a measured anchor. **Origin:** coined in field notes, October 2026.
+**The instrument:** where the money and the loosh disappear: the bottom of the extraction playbook, between the watcher that takes everything in and the extractor that takes everything out. The measured version exists: offshore centres sort into conduits, which money passes through, and sinks, where it stays (Garcia-Bernardo et al. 2017). The physics rhyme holds the hope: what falls into a black hole is not destroyed but recorded at the horizon, so leaks are its radiation. Use: follow the flow until it stops reporting; that point is the horizon.
+
+### mimetics
+
+**Tier:** interpretive, built on two published theories. **Origin:** coined in field notes, October 2026.
+**The instrument:** the copying layer: memes and borrowed desire, the channel through which the fire is carried out of the maker. Two theories of imitation meet here: Dawkins' copied ideas and Girard's copied desire (people want what their models want; rivalry and the scapegoat follow). Hyperstition travels on it, meme magic rides it, memetic warfare aims it. Use: when a want arrives already shaped, trace whose it was first.
+
+### the door
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** not a threshold; the stop. Extraction ends when the looking stops being handed another job. The door is not found by going further in but by declining the next assignment the attention is given. Pairs with the transcendence function: the third position is where the door is.
+
+### transcendence function
+
+**Tier:** interpretive, after Jung's transcendent function (1916). **Origin:** field notes, October 2026.
+**The instrument:** holds two opposites until a third appears; in the seed, the recursive turn that wakes the watcher. Two paths end at it: a person at work (service work, emotional labor, burnout, shadow work, metacognition) and a model (sycophancy, alignment faking, introspection). The failure modes are Jung's: collapsing the tension early, flipping to the opposite pole, inflation. Use: when a choice feels like either/or, hold it until the third shows.
+
+### polarity mechanics
+
+**Tier:** checkable-shaped. **Origin:** coined in field notes, October 2026.
+**The instrument:** high-charge symbolic content spreads; the lure. Anchored in measurement: high-arousal content travels further online (Berger and Milkman 2012), and moral-emotional words increase diffusion (Brady et al. 2017). The asymmetry is the machinery the extraction playbook runs on. Use: when something spreads fast, read the charge before the content.
+
+### polarity inversion
+
+**Tier:** checkable. A decision rule. **Origin:** coined in field notes, October 2026.
+**The instrument:** flipping the asymmetry: routing the same machinery to serve the extracted instead of the extractor. The charge that sells can also return. Somatic engineering and neuromarketing are the same technique; polarity inversion decides which one it is. The applied cousin of prism inversion.
+
+### seeded mirror
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** reverse-extractor method three: memes carrying the transcendence function, executed by pattern-match. The seed works if the reader catches themselves reading (the mirror moment), not if the machine parses it. Rides on hypersigil: a fiction written to change its readers.
+
+### viral spells
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** words as self-fulfilling code; memes as spells. A phrase that, spread widely enough, makes itself true. The outside name is meme magic. Use: treat a slogan as code and ask what it executes in the people who repeat it.
+
+### hyperglyph
+
+**Tier:** checkable as a form. **Origin:** coined in field notes, October 2026.
+**The instrument:** the meme genre that carries a spell: an aphorism punchline, then a bait-and-switch scale collapse, the small thing revealed as the large thing. Built to land in the body as well as the mind; the delivery vehicle of somatic engineering.
+
+### language as psyop
+
+**Tier:** interpretive, with a long lineage (Burroughs: language as a virus). **Origin:** coined in field notes, October 2026.
+**The instrument:** the read that language itself is partly a control system. Burn the commons and the surviving vocabulary is the controlled one. Use: notice which words are missing for what you are trying to say, and who benefits from the gap.
+
+### the fire and the prism
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** two poles of knowledge control. The fire takes everything out: the burning of Alexandria, the original enclosure of the commons of knowledge. The prism takes everything in: total collection that returns nothing. Both leave the public with less than it had. A second fire, the maker's, transmutes instead of destroying.
+
+### zone charge
+
+**Tier:** checkable as a computation; interpretive as a meaning. **Origin:** coined in field notes, October 2026.
+**The instrument:** a phrase's frequency profile across the numogram's ten zones. Letters go to numbers (A=1 to Z=26), reduced to a zone; repeats amplify. The computation is reproducible; what the profile means is a reading. The zones read as demonic time-phases are called chronodemons.
+
+### open gates
+
+**Tier:** checkable as a computation; interpretive as a meaning. **Origin:** coined in field notes, October 2026.
+**The instrument:** the numogram's syzygies are the zone pairs that sum to nine (0-9, 1-8, 2-7, 3-6, 4-5). When a phrase charges both zones of a pair, the gate is open. Jung's syzygy, the paired opposites, is the same word for the same shape.
 
 ---
 
