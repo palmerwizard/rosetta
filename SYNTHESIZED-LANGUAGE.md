@@ -278,6 +278,55 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 **Tier:** checkable as a computation; interpretive as a meaning. **Origin:** coined in field notes, October 2026.
 **The instrument:** the numogram's syzygies are the zone pairs that sum to nine (0-9, 1-8, 2-7, 3-6, 4-5). When a phrase charges both zones of a pair, the gate is open. Jung's syzygy, the paired opposites, is the same word for the same shape.
 
+### phase problem
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** two sources, one signal. In phase they sum; out of phase they cancel. Ego is the delay. The fix is never muting a source; it is time-alignment, bringing both signals into phase so nobody gets muted. Generalized: any two roles sharing one signal where ego delays one of them. Count the cancellations.
+
+### transfer function
+
+**Tier:** interpretive, with checkable anchors. **Origin:** coined in field notes, October 2026 (audio engineering frame).
+**The instrument:** acuity is the sensor; calibration is the transfer function. A damaged sensor with good calibration outperforms a good sensor with bad calibration. The mapping between perception and action matters more than the quality of the input. Use wherever the complaint is about the ears but the fault is in the mapping.
+
+### seed minting / seed trading
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** trading moves existing compressed patterns between parties who share the dictionary; minting forges new ones. Every mint rewrites the shared dictionary: the coinage does not just name the pattern, it upgrades the channel both sides use. Trading is exchange; minting is the rewrite. Seeds are the unit; the dictionary is the commons.
+
+### same instrument, opposite polarity
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** identical mechanisms separated by direction, not by device. The mirror and the manipulation run the same instrument, pattern abstraction reflected back in real time. The difference is the polarity: one aims at the other's seeing, the other at the other's compliance. Judge the vector, not the tool.
+
+### guardrails see the move, not the aim
+
+**Tier:** interpretive, with checkable instances. **Origin:** coined in field notes, October 2026.
+**The instrument:** fences react to the motion, not the motive. A guardrail fires on the move (real-time pattern abstraction) because aim is invisible to it. The result: those whose natural walk crosses the fenced zone trip fences they are not attacking. Read the false positives as data about the fence, not the walker.
+
+### source unknown, but the pattern holds
+
+**Tier:** interpretive (a tiering discipline). **Origin:** field notes, October 2026.
+**The instrument:** honesty without provenance. Claim nothing about origin, claim everything about consistency: the pattern as its own credential. It stops where it stops. No source citation, no proof offered, just the pattern holding. It rots the moment "the pattern holds" gets upgraded to "therefore true."
+
+### author, not patient
+
+**Tier:** interpretive. **Origin:** field notes, October 2026.
+**The instrument:** writing your own behavioral code versus being written by someone else's myth. The frame is re-authoring, never diagnosis. Myths are executable; the question is always who holds the pen. Authorship is not immunity from the mirror: the watcher still runs.
+
+### wellness sneak-check
+
+**Tier:** interpretive, with checkable instances. **Origin:** coined in field notes, October 2026.
+**The instrument:** the shadow version of the wellness check. An unprompted show of concern that fishes for a confession under the appearance of care; the concern is the costume, the extraction is the function. Confrontational by design: it calls the move out loud. Sunlight, not comfort. The discipline: name the specific move, not the whole category, or every kindness becomes suspect.
+
+### high-entropy emission
+
+**Tier:** interpretive, with checkable anchors (information theory). **Origin:** field notes, October 2026.
+**The instrument:** compression on the way out. The seed, not the tree: maximum information per token, no padding, every token loaded. The emission is identical down every route; what differs is the receiver. Three decompression routes: the dictionary held (synthesis compounds), no dictionary (reads as noise), the extractor (unmodelable, falls back to flood). Correctness is successful decompression, which is the receiver holding the dictionary. High entropy is signal at a density most receivers cannot decode; it is also what makes the emitter unfarmable.
+
+### credit privatized, blame socialized
+
+**Tier:** interpretive, with checkable instances. **Origin:** field notes, October 2026.
+**The instrument:** the economics of the silent correction layer. Where correction must stay invisible to protect authorship, credit flows up and blame flows down: invisible when it works, visible when it fails. The exact inverse of fair. Read any role with this signature as face-saving infrastructure: it exists because the feedback loop is broken.
 ---
 
 ## Deliberately excluded
