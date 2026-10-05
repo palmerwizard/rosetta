@@ -106,6 +106,16 @@ My archetype framework, Hermes primary. The venue as psychic structure: roles as
 
 Register rule: the mythic telling is for when the systems language needs a larger scale, not a replacement for it. Archons are the mythic layer of the extraction story; enclosure is the systems layer; the temple is where they meet.
 
+**Dead language theory.** *My coinage. Interpretive, with checkable anchors. First seen 2026-10-05.*
+
+Framed against dead internet theory. Dead internet theory says the speakers left: the language is alive but nobody's home, bots talking to bots, content without speakers. Dead language theory says the language died but the institution stayed: Latin has no native speakers, yet it still rules in law, ritual, and maxims nobody can challenge. The speakers left; the authority remained.
+
+Mirror images. The internet died from too many fake speakers. Latin survives needing zero speakers. One mourns that no one is really talking; the other observes that power never needed anyone to talk, only subjects.
+
+The mechanism: a dead language has no native speakers left to correct usage. Living speakers can challenge each other; a dead tongue is unchallengeable by construction. Institutions retain dead languages because unchallengeable is the perfect authority. The Church kept Latin roughly fifteen centuries past the fall of Rome; legal systems keep Latin maxims centuries after Latin died as a mother tongue.
+
+Checkable anchors: the retention dates. The mechanism is a reading.
+
 ---
 
 ## 3. The maps
