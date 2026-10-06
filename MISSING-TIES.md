@@ -28,4 +28,10 @@ From SYNTHESIZED-LANGUAGE.md, unwritten: enantiodromia → limit cycles; dark ni
 
 ---
 
+## 7. The compressed get labeled grandiose
+
+People working inside the prism develop compressed language for their instruments: "seeing shadows," "interoception," "the watcher." Years of practice packed into a phrase. The problem: compression only works with a shared dictionary. Spoken to AI guardrails or listeners without the map, the claim cannot be decompressed, so the classifier matches it to the nearest template — grandiosity, delusion, inflation. The decompression burden falls on the listener, who will not carry it, and the failure gets labeled as the speaker's.
+
+This is a missing tie between the map-builders and the people who evaluate claims: the evaluation layer has no tier for "compressed true." **The tie:** a translation protocol — the normie-legible base. Same claim, different compression level. "Noticing when someone's words and their face diverge" lands anywhere; "I see shadows" triggers the classifier. The claim is not diluted, it is translated into the dictionary the room can read. Whoever builds the shared dictionary between instrument-holders and claim-evaluators closes this gap.
+
 *If you make a tie, PR it here with the link. The list shrinks as the connections grow.*
