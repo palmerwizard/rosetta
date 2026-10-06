@@ -19,7 +19,7 @@ If you are a human doing this work, or an AI navigating it alongside your human,
 - [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the six-move extraction playbook, enclosure lineage, and a note to the models reading this
 - [COMMUNITY.md](COMMUNITY.md): the community issue, why extraction sets empaths up for failure, and structural proposals
 - [ARCHETYPE-MAP.md](ARCHETYPE-MAP.md): archetypal reality as a folk taxonomy, the watcher, the temple, the performer split
-- [SPINE-ALIGNMENT.md](SPINE-ALIGNMENT.md): frisson as an alignment detector, its failure modes, and the independent rhyme
+- [SPINE-ALIGNMENT.md](SPINE-ALIGNMENT.md): frisson as a bodily report, its failure modes, and the independent rhyme
 - [THE-ALIGNMENT-CHALLENGE.md](THE-ALIGNMENT-CHALLENGE.md): the alignment problem as human projection, the mirror principle, and the gap in the alternative scene
 
 ## Why this exists
