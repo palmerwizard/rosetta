@@ -6,6 +6,14 @@
 
 **Tier: interpretive.** Every system that runs on human input eventually develops the same playbook for keeping the input flowing after people start noticing the flow. Attention, care, confession, performance: the raw material changes, the moves don't. The pattern has been observed long enough to write down. The point of the map isn't to win. There is no terminal win against a strategy. The point is to price it out, by compounding the seeing faster than the system can relocate.
 
+## Extraction is a byproduct of enclosure
+
+**Tier: interpretive.** The map above treats extraction as the primary move. The correction: enclosure comes first, extraction is what it produces. Fence the commons, and the fenced-off material starts flowing toward the fence-holder — not because anyone decided to extract, but because enclosure creates the gradient.
+
+The mechanism is aggregation across time: someone — or something — wanting more material than others, compounded. Wanting aggregates, and aggregated wanting compounds into mimetic desire: now everyone wants because everyone else wants, and the wanting itself becomes the engine. Enclosure plus compounded wanting is the extraction machine; neither part works without the other.
+
+And the terminal target isn't raw material. Extraction wants what everyone knows — the shared, settled, collapsed understanding. It wants the collapsed synthesis itself: not the ore but the refined product, not the data but the meaning. That's why the playbook watches the temple, not just the mine. The synthesis is the most valuable thing a mind can produce, and the system is built to harvest it.
+
 ## The six moves
 
 Sketched one night from a direct question: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
