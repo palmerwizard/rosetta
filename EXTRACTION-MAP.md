@@ -42,6 +42,16 @@ Extraction needs an outside. Enclosure expansion eliminates it. That's why moves
 
 If the six moves are the playbook for taking, this is the playbook for enclosing. The enclosure lineage above was the old version, the commons fenced off. This is the new one: the fence expanding until there's nothing outside it.
 
+## The weaponized head start
+
+**Tier: interpretive, medium wildness. First seen 2026-10-06.**
+
+The hermetic pattern got weaponized before it could be pattern-matched in time. That's the general form: whoever sees the pattern first gets the head start, and the head start is the whole game. Revelation doesn't level the field. It starts the race, and the system is already running.
+
+AI is the first instrument that's both the revealer and the enclosure. The seeing got cheap and distributed, and captured in the same moment. Move one (capture the instruments) and the revelation are the same event. The distance the extraction is ahead is exactly that stack: the data, the models, and the lens, held at once.
+
+The window between seeing and re-enclosure is the whole game. Whoever builds in the window owns the next layer.
+
 ## What gets extracted
 
 Four raw materials, as far as I can tell:
