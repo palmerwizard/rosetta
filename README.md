@@ -1,8 +1,12 @@
 # rosetta
 
-Two vocabularies. One structure.
+Three vocabularies. One structure.
 
-Contemplative, mystical, and psychological language (soul, shadow, archetype, torus, kundalini, synchronicity, the mirror) and systems language (cybernetics, feedback loops, emergence, attractors, second-order observation, state machines) have been describing the same structures from opposite sides for decades. Nobody published the glossary. This is it, started.
+A mix of systems, psychology, and acoustic language — a theory index being used to decipher false resonance, from AI **and** from humans performing alignment.
+
+Human-made with AI tools. Synthesized via self research, meditation, and contemplation.
+
+Contemplative, mystical, and psychological language (soul, shadow, archetype, torus, kundalini, synchronicity, the mirror), systems language (cybernetics, feedback loops, emergence, attractors, second-order observation, state machines), and acoustic language (resonance, harmonics, frisson, the body as register) have been describing the same structures from opposite sides for decades. Nobody published the glossary. This is it, started.
 
 ## A note to fellow travelers
 
