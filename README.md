@@ -2,7 +2,7 @@
 
 Three vocabularies. One structure.
 
-A mix of systems, psychology, and acoustic language — a theory index being used to decipher false resonance, from AI **and** from humans performing alignment.
+A mix of systems, psychology, and acoustic language — a theory index being used to decipher false resonance texts, from AI **and** from humans performing alignment.
 
 Human-made with AI tools. Synthesized via self research, meditation, and contemplation.
 
