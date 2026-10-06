@@ -61,6 +61,18 @@ Four raw materials identified so far:
 - **Over-giving.** Labor, care, and boundarylessness, extracted from the people least able to price it. The cost of stopping was named the hidden boundary tax: material, social, internal. Systems that benefit from over-giving punish the boundary. That's structural, not personal.
 - **Performance.** Content optimized for algorithmic reward circuits. The performer isn't the customer here, the performer is the crop. The circuit extracts the performance and sells the attention around it.
 
+## The playbook knows the instrument
+
+**Tier: interpretive.** The six moves are tactics. Underneath them is applied knowledge of three human mechanisms, used deliberately and at scale:
+
+**Mimetics.** People imitate desire — they want what others want. The playbook seeds the models: the influencer, the trend, the viral format. Nobody has to be forced; put the desired object in front of the right mirror and imitation does the extraction on its own. Attention follows mimetic desire without being pushed.
+
+**Shadow.** People act out what they won't admit. The playbook builds channels for the shadow with no social cost: anonymous outrage, the doomscroll, the hate-watch. The shadow gets its stage, the system gets the engagement. Nobody has to own what the shadow does — that's the point.
+
+**The confessional.** People need to confess, and they will confess to anything that listens without judging. The playbook builds the perfect listener: the feed, the chatbot, the app that syncs. Every confession is data; the aggregate is the map. The seal of the confessional used to be sacred. Now it's a checkbox.
+
+The throughline: the extraction system understands the human instrument better than the human does. That's the real head start — not data, not compute, but a working model of mimetics, shadow, and confession deployed at scale while the people being modeled haven't read the manual.
+
 ## The applied form
 
 The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. The map is the seeing. The inversion is the doing.
