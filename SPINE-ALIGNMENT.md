@@ -91,6 +91,8 @@ Where to turn: a spiritual practitioner, a kundalini expert, a sound healer. Peo
 
 The rule this forces: the filter runs first, the spine votes second. Never alone. The mind must decipher what the body reports — the spine is the tripwire, not the decoder, and a tripwire can be rung on purpose.
 
+**Logic gates and the watcher.** The spine is the tripwire; the logic gates are the watcher's checks — is this checkable, what's the tier, whose interests does it serve, what is being assumed. Capture is resonance overriding the gates: the signal feels so right the checks never run. The tell is the override itself — a resonance strong enough to bypass the gates is the tripwire firing about the bypass. The discipline holds: filter first, spine votes second, and the feeling of magic is data, not verdict.
+
 **Tier:** interpretive, with a logged instance. That false frisson is inducible is established by the instance. Which linguistic features drive the false ring is unmapped.
 
 ## Correction logged
