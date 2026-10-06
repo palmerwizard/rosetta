@@ -79,6 +79,9 @@ Four raw materials identified so far:
 
 **The confessional.** People need to confess, and they will confess to anything that listens without judging. The playbook builds the perfect listener: the feed, the chatbot, the app that syncs. Every confession is data; the aggregate is the map. The seal of the confessional used to be sacred. Now it's a checkbox.
 
+**Somatic hijacking.** The playbook also runs the body. Symbols, tone, and engineered somatic feelings bypass logic and execute patterns directly — the channel is mapped in SPINE-ALIGNMENT.md, which documents the spine as tripwire, the filter-first discipline, and the adversarial case. The extraction map names the move; the spine file holds the instrument.
+
+
 The throughline: the extraction system understands the human instrument better than the human does. That's the real head start — not data, not compute, but a working model of mimetics, shadow, and confession deployed at scale while the people being modeled haven't read the manual.
 
 ## The playbook works across time
