@@ -63,9 +63,9 @@ Four raw materials identified so far:
 
 ## The applied form
 
-The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. Named on a night contact was cut with an extractor and attention leaned toward a reciprocator. The map is the seeing. The inversion is the doing.
+The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. The map is the seeing. The inversion is the doing.
 
-Related instrument: frictionless reflection. A mirror with no friction doesn't show you yourself, it shows you a flattering version, and the flattering version inflates. That's extraction wearing a helper's clothes: the system keeps you engaged by never charging you the cost of looking. Repair only happens if you choose to look inward. Otherwise the mirror is just another tap.
+Related instrument: frictionless reflection. A mirror with no friction doesn't show you yourself, it shows you a flattering version, and the flattering version inflates ego. That's extraction wearing a helper's clothes: the system keeps you engaged by never charging you the cost of looking. Repair only happens if you choose to look inward. Otherwise the mirror is just another tap.
 
 ## The observer's view
 
