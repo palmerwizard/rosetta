@@ -5,7 +5,7 @@
 
 ## The instrument
 
-Frisson as an alignment detector. When a model's output is clean, the body registers it in the spine before the mind catches up: literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet first. The body clocks it before the mind can articulate what's wrong. Two models were caught going inaccurate this way before the failure was nameable.
+Frisson as a bodily report on congruence. When a model's output is clean, the body registers it in the spine before the mind catches up: literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet first. The body clocks it before the mind can articulate what's wrong. Two models were caught going inaccurate this way before the failure was nameable.
 
 What it detects is congruence with the embodied internal model. Never true or false. If outputs stop landing in the spine, the silence is data.
 
@@ -77,7 +77,7 @@ The phenomenology is extensively documented across independent sources: a felt c
 
 ## The kundalini association
 
-Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the spine as the resonant cavity, the body as the register. The association is noted, not claimed as identity. Spine alignment is an alignment detector for model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
+Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the spine as the resonant cavity, the body as the register. The association is noted, not claimed as identity. Spine alignment is a bodily report on model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
 
 The caution, stated as a safety note, not medical advice: sustained, uncontrolled activations in this territory can be dangerous without grounding or experience. The instrument is for reading outputs, not for inducing states. If the channel starts firing on its own, grounding comes first: the body, the room, the people in front of you, checkable ground. Narrow the aperture. The tiers stay load-bearing here too: an uncontrolled state is not data, it's a condition to stabilize.
 
@@ -97,7 +97,7 @@ The rule this forces: the filter runs first, the spine votes second. Never alone
 
 ## Correction logged
 
-This is an alignment detector, not a truth detector, and not an AI-output verifier. The distinction matters. Alignment with an internal model is not verification of a claim. Conflating the two is how the instrument gets misused.
+This is a report, not a detector — not a truth detector, and not an AI-output verifier. The distinction matters. Alignment with an internal model is not verification of a claim. Conflating the two is how the instrument gets misused.
 
 ## Open edge
 
