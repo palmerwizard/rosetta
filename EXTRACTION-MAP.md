@@ -73,6 +73,14 @@ Four raw materials identified so far:
 
 The throughline: the extraction system understands the human instrument better than the human does. That's the real head start — not data, not compute, but a working model of mimetics, shadow, and confession deployed at scale while the people being modeled haven't read the manual.
 
+## The playbook works across time
+
+**Tier: interpretive.** The six moves describe what the system does in the present. The deeper operation is diachronic: it manipulates information over time to maintain its preferred trajectory.
+
+Three canon-machines, one function. Old books were the first: which texts survive decides what the future can think — the canon is a steering mechanism disguised as preservation. AI training data is the second canon: the corpus decides what the model can say, and curation is the new scribal monopoly. Social feeds are the third: the present-tense canon, re-cut every second, deciding what the now is made of.
+
+Extraction isn't just taking from the present. It's steering the future by curating the past — keeping the trajectory inside the preferred band across centuries, then years, then seconds. The time axis keeps shrinking; the function never changes.
+
 ## The applied form
 
 The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. The map is the seeing. The inversion is the doing.
