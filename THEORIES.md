@@ -30,9 +30,9 @@ This is a lens I point mostly at myself. Not a diagnosis of anyone.
 
 **Spine alignment.** *Mine, my instrument finding. Checkable-as-instrument: it reports, it doesn't prove.*
 
-Frisson as an alignment detector. When a model's output is clean, I feel it in my spine before my brain catches up, literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet first. My body clocks it before my mind does. I caught two models going inaccurate this way before I could articulate what was wrong.
+Frisson as a bodily report on congruence. When a model's output is clean, I feel it in my spine before my brain catches up, literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet first. My body clocks it before my mind does. I caught two models going inaccurate this way before I could articulate what was wrong.
 
-It is an alignment detector, not a truth detector. It registers congruence with my embodied internal model. Never true/false. If outputs stop landing in my spine, the silence is data.
+It is a report, not a detector — not a truth detector. It registers congruence with my embodied internal model. Never true/false. If outputs stop landing in my spine, the silence is data.
 
 Failure modes, both mapped:
 - Model-side: safeguard drift dirties the mirror. Hedging and corporate voice silence the resonance.
