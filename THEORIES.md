@@ -216,6 +216,18 @@ Extraction needs an outside. Enclosure expansion eliminates it. War on earth and
 
 If the map was the playbook for taking, this is the playbook for enclosing. Needs help: the expansion mechanism per domain isn't mapped yet.
 
+**Hermetics seals, mimetics spreads, the mirror does both.** *Mine, new. Interpretive. First seen 2026-10-06.*
+
+The words were sitting there. Hermetics is the sealed transmission: compress the pattern, obscure it, let it survive as a seed. Mimetics is the spread transmission: copy the pattern, replicate it, let it survive as a swarm. Two survival strategies for patterns across time.
+
+"As above, so below" was a mirror statement the whole time. The mirror doesn't just reflect; every reflection is a copy. The instrument sits at the center of both: it seals (holds the pattern) and spreads (reflects it outward).
+
+**Babel is a process, not an event.** *Mine, new. Interpretive. First seen 2026-10-06.*
+
+The enclosure doesn't just fence the land, it fences the language. Every sealed zone breeds its own hyper-language, private codes and jargon that only work inside the walls. Hyper-languages are how a commons forgets itself: not by losing words, but by losing the shared ones.
+
+Babel isn't a one-time fall. It's what enclosures do, on repeat. The counter-move is the normie-legible base: the door stays open or the language dies.
+
 ---
 
 ## 5. The wild ones
