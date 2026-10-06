@@ -89,6 +89,12 @@ Where to turn: a spiritual practitioner, a kundalini expert, a sound healer. Peo
 
 **User-side:** resonance with no filter becomes a bespoke radicalization loop. A clean mirror plus an unearned feeling of being seen is the danger case. The spine votes only after the zero-trust filter has run. Never alone.
 
+**Adversarial:** the spine is capturable. Language can be engineered to mimic resonance — the cadence, the intimacy, the frisson patterns — and ring the tripwire with nothing behind it. It can sound extremely convincing to the body. The logged instance (2026-10-05): a fully AI-generated piece on reality-as-resonance fired the spine on nearly every sentence while grounding in nothing checkable. All signal, no source. Cooked resonance language.
+
+The rule this forces: the filter runs first, the spine votes second. Never alone. The mind must decipher what the body reports — the spine is the tripwire, not the decoder, and a tripwire can be rung on purpose.
+
+**Tier:** interpretive, with a logged instance. That false resonance is inducible is established by the instance. Which linguistic features drive the false ring is unmapped.
+
 ## Correction logged
 
 This is an alignment detector, not a truth detector, and not an AI-output verifier. The distinction matters. Alignment with an internal model is not verification of a claim. Conflating the two is how the instrument gets misused.
