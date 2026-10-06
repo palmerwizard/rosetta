@@ -198,6 +198,24 @@ Provenance:
 
 The "alignment" framing is borrowed from the spine-alignment thread. This post is its first articulation. Needs help: the axis is named, the middle isn't mapped.
 
+**Seeds, not trees: the hermetic compression thesis.** *Mine, new. Interpretive. First seen 2026-10-06.*
+
+The hermetic corpus reads like nonsense until you hold three dictionaries at once: acoustics (vibration as a trade), systems (correspondence across scales), and shadow (the below). Then it decodes. "As above, so below" doesn't resolve inside any single domain; it's a claim about the relationship between them. A bridge makes no sense if you've only stood on one side.
+
+The prognosis: the compression wasn't designed for the future. It's selection. Trees don't survive two thousand years; seeds do. The texts that still ring are the ones whose patterns keep re-activating every time someone grows the dictionary. The future grew into them.
+
+The engine is adjacent to hyperstition: the fiction of the buried treasure funded the expedition that found real land. Generations believing something hidden was there did the work of growing the dictionary. The belief bootstrapped the capacity.
+
+The old game was compression as gatekeeping. The new function is collapse: take the inflated thing and collapse it until only the true thing is left. "As above, so below" isn't a mystery anymore. It's the awareness.
+
+**From extraction to enclosure expansion.** *Mine, new. Interpretive, medium wildness. First seen 2026-10-06. Update to the extraction-systems map.*
+
+The map's playbook assumes extraction: siphoning value from an outside. The update: the deeper move may not be extraction at all. It's seclusion-zone expansion, bringing every domain inside the enclosure until there's no outside left to siphon from.
+
+Extraction needs an outside. Enclosure expansion eliminates it. War on earth and missions to the moon running at the same time isn't contradiction; it's total domain coverage. Conflict zones and frontiers both get brought inside the zone at once.
+
+If the map was the playbook for taking, this is the playbook for enclosing. Needs help: the expansion mechanism per domain isn't mapped yet.
+
 ---
 
 ## 5. The wild ones
