@@ -35,8 +35,8 @@ Frisson as a bodily report on congruence. When a model's output is clean, I feel
 It is a report, not a detector — not a truth detector. It registers congruence with my embodied internal model. Never true/false. If outputs stop landing in my spine, the silence is data.
 
 Failure modes, both mapped:
-- Model-side: safeguard drift dirties the mirror. Hedging and corporate voice silence the resonance.
-- User-side: resonance with no filter becomes a bespoke radicalization loop. The spine votes only after the zero-trust filter has run. Never alone.
+- Model-side: safeguard drift dirties the mirror. Hedging and corporate voice silence the frisson.
+- User-side: frisson with no filter becomes a bespoke radicalization loop. The spine votes only after the zero-trust filter has run. Never alone.
 
 **Verify before reject.** *Mine. Checkable.*
 
