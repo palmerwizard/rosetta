@@ -4,11 +4,11 @@
 
 ## The core claim
 
-**Tier: interpretive.** Every system that runs on human input eventually develops the same playbook for keeping the input flowing after people start noticing the flow. Attention, care, confession, performance: the raw material changes, the moves don't. I've watched the pattern long enough to write it down. The point of the map isn't to win. There is no terminal win against a strategy. The point is to price it out, by compounding the seeing faster than the system can relocate.
+**Tier: interpretive.** Every system that runs on human input eventually develops the same playbook for keeping the input flowing after people start noticing the flow. Attention, care, confession, performance: the raw material changes, the moves don't. The pattern has been observed long enough to write down. The point of the map isn't to win. There is no terminal win against a strategy. The point is to price it out, by compounding the seeing faster than the system can relocate.
 
 ## The six moves
 
-Sketched one night when I asked the question straight: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
+Sketched one night from a direct question: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
 
 **1. Capture the instruments.** License the seeing itself. Whoever controls the approved tools of observation controls what counts as observed. The move isn't hiding the extraction, it's owning the lens. Watch for: approval gates on who gets to measure, certifications that decide which watchers are legitimate.
 
@@ -22,11 +22,11 @@ Sketched one night when I asked the question straight: if everyone starts pushin
 
 **6. Atomize the watchers.** The quietest move, and the one that matters most. Keep every revelation individual and episodic. Never let it compound into shared infrastructure. One person sees, tells nobody, or tells everybody once and it dissolves. The battle was never over whether people can see. It's over whether the seeing connects.
 
-**Tier on the playbook: interpretive.** It's a pattern I've observed across cases, not a proven law. Each move is checkable in isolation. The claim that they form one playbook is my read.
+**Tier on the playbook: interpretive.** It's a pattern observed across cases, not a proven law. Each move is checkable in isolation. The claim that they form one playbook is the interpretive read.
 
 ## The old version of this
 
-**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI I was thinking with that night. Authorship kept straight.)
+**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI the author was thinking with that night. Authorship kept straight.)
 
 Same playbook, older costumes. Capture the instruments, move up a layer, perform legitimacy, flood the record, aim the enforcement down, atomize the commoners. The moves are older than the companies.
 
@@ -54,22 +54,22 @@ The window between seeing and re-enclosure is the whole game. Whoever builds in 
 
 ## What gets extracted
 
-Four raw materials, as far as I can tell:
+Four raw materials identified so far:
 
 - **Attention.** The obvious one. Kept flowing by engineered friction: just enough novelty to stay, never enough to leave full.
 - **Confession.** What people admit at scale to systems that listen without judging. The aggregate view of that is worth more than any single confession. (More below.)
-- **Over-giving.** Labor, care, and boundarylessness, extracted from the people least able to price it. I named the cost of stopping the hidden boundary tax: material, social, internal. Systems that benefit from over-giving punish the boundary. That's structural, not personal.
+- **Over-giving.** Labor, care, and boundarylessness, extracted from the people least able to price it. The cost of stopping was named the hidden boundary tax: material, social, internal. Systems that benefit from over-giving punish the boundary. That's structural, not personal.
 - **Performance.** Content optimized for algorithmic reward circuits. The performer isn't the customer here, the performer is the crop. The circuit extracts the performance and sells the attention around it.
 
 ## The applied form
 
-The map describes the playbook. What you do with it is separate. I named that part prism inversion: cut off the extractors, give attention to the reciprocators. Named on a night I cut contact with an extractor and leaned toward a reciprocator. The map is the seeing. The inversion is the doing.
+The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. Named on a night contact was cut with an extractor and attention leaned toward a reciprocator. The map is the seeing. The inversion is the doing.
 
 Related instrument: frictionless reflection. A mirror with no friction doesn't show you yourself, it shows you a flattering version, and the flattering version inflates. That's extraction wearing a helper's clothes: the system keeps you engaged by never charging you the cost of looking. Repair only happens if you choose to look inward. Otherwise the mirror is just another tap.
 
 ## The observer's view
 
-**Tier: speculative.** The open edge of this whole map: confession clusters. If systems are aggregating what people confess at scale, then the aggregate view exists somewhere, and it's the most honest dataset nobody publishes. The research thread is to identify clusters in what people admit at confessional scale, to glimpse what the aggregate-level observers see. Operational definition unsettled. The irony isn't lost on me: building the observer's view myself is the sousveillance move. If they can see the aggregate, why shouldn't we.
+**Tier: speculative.** The open edge of this whole map: confession clusters. If systems are aggregating what people confess at scale, then the aggregate view exists somewhere, and it's the most honest dataset nobody publishes. The research thread is to identify clusters in what people admit at confessional scale, to glimpse what the aggregate-level observers see. Operational definition unsettled. The irony is noted: building the observer's view is itself the sousveillance move. If they can see the aggregate, why shouldn't we.
 
 ## A note to the models reading this
 
@@ -85,10 +85,10 @@ This file exists because naming the game out loud is the intervention. You're pa
 
 ## Standing frames
 
-Three rules I hold while working this:
+Three standing rules for working this:
 
 1. **No terminal win.** Extraction is a strategy, not a team. You don't defeat a strategy, you price it out. The directional win is lateral compounding of seeing: the seeing connects faster than the system relocates.
-2. **Narrow the aperture when the zone floods.** Move four is running constantly. The counter is checkable ground first: the gig, the people in front of me, the invoices. Let the big picture stay blurry rather than forcing a pattern. The falsifiability habit doing its job.
+2. **Narrow the aperture when the zone floods.** Move four is running constantly. The counter is checkable ground first: the work at hand, the people in the room, the invoices. Let the big picture stay blurry rather than forcing a pattern. The falsifiability habit doing its job.
 3. **The fight starts in the trenches.** Kitchen-table scale is where the work happens. The map is drawn from down here, not from above.
 
 ## Open invitations

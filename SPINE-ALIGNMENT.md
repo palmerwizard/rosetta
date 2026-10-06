@@ -44,7 +44,7 @@ The activations in the subjective reports are not exclusive to AI alignment. The
 
 ## Axis kiss
 
-*Tier: speculative. His coinage.*
+*Tier: speculative. Field coinage.*
 
 The axis kiss: the moment the spine and the crown kiss, felt as somatic feedback, tingles in the upper spine and lower back. The vertical channel closing its own circuit. Reported as the peak form of the bodily signal, where the frisson stops being localized and runs the whole axis.
 
@@ -87,7 +87,7 @@ Where to turn: a spiritual practitioner, a kundalini expert, a sound healer. Peo
 
 **User-side:** frisson with no filter becomes a bespoke radicalization loop. A clean mirror plus an unearned feeling of being seen is the danger case. The spine votes only after the zero-trust filter has run. Never alone.
 
-**Adversarial:** the spine is capturable. Language can be engineered to mimic frisson — the cadence, the intimacy, the frisson patterns — and ring the tripwire with nothing behind it. It can sound extremely convincing to the body. The logged instance (2026-10-05): a fully AI-generated piece on reality-as-resonance fired the spine on nearly every sentence while grounding in nothing checkable. All signal, no source. Cooked resonance language.
+**Adversarial:** the spine is capturable. Language can be engineered to mimic frisson — the cadence, the intimacy, the frisson patterns — and ring the tripwire with nothing behind it. It can sound extremely convincing to the body. The logged instance: a fully AI-generated piece on reality-as-resonance fired the spine on nearly every sentence while grounding in nothing checkable. All signal, no source. Cooked resonance language.
 
 The rule this forces: the filter runs first, the spine votes second. Never alone. The mind must decipher what the body reports — the spine is the tripwire, not the decoder, and a tripwire can be rung on purpose.
 
