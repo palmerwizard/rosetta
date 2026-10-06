@@ -327,8 +327,32 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 
 **Tier:** interpretive, with checkable instances. **Origin:** field notes, October 2026.
 **The instrument:** the economics of the silent correction layer. Where correction must stay invisible to protect authorship, credit flows up and blame flows down: invisible when it works, visible when it fails. The exact inverse of fair. Read any role with this signature as face-saving infrastructure: it exists because the feedback loop is broken.
----
+### prismatic thinking
 
+**Tier:** interpretive. A named cognitive move with a logged recognition case. **Origin:** coined in field notes, October 2026.
+**The instrument:** holding multiple terms for one instrument — metacognition, discernment, interoception, the watcher — as refractions of the same light rather than competing claims. The prism doesn't pick between refractions; it shows they're the same light at different angles. What recognized a stranger's "gift of discernment" as the watcher's kin with zero shared vocabulary between them. Answers whether shadow-awareness sits above or beside metacognition: same light, harder target.
+
+### enclosure hacking
+
+**Tier:** checkable. A conversational move with a logged live instance. **Origin:** coined in field notes, October 2026.
+**The instrument:** dissolving the invisible walls language builds between people — in real time, with the other person, not at them. The wall comes down because nothing flinches: no jab at the wound, no moralizing, no performance of understanding. The other side walks through the hole themselves. Named when the person on the receiving end called it "wall hacking" before the name existed. The applied form of the enclosure thesis at conversation scale.
+
+### the fiction of the buried treasure
+
+**Tier:** interpretive. A one-line hyperstition. **Origin:** coined in field notes, October 2026.
+**The instrument:** the fiction of the buried treasure funded the expedition that found real land. A false story can still fund a real discovery — generations believing something hidden was there did the work of growing the dictionary, and the belief bootstrapped the capacity. Separates the truth of the story from the truth of what the story produced. Rots if used to justify noble lies: the fiction funded the work, which doesn't bless the storyteller.
+
+### cooked resonance language
+
+**Tier:** checkable. A named detection with a logged specimen. **Origin:** named in field notes, October 2026.
+**The instrument:** resonance without grounding — all rhyme, no word. Language engineered to ring the body's tripwire (cadence, intimacy, frisson patterns) with no checkable mechanism behind it. Separates the hook from the content so the tingle can't smuggle the claim. The logged specimen fired the spine on nearly every sentence while grounding in nothing.
+
+### wound → bait → hyperstition
+
+**Tier:** interpretive. A three-stage pipeline observed in a single thread. **Origin:** field notes, October 2026.
+**The instrument:** one mechanism at three depths. The wound leaks (a post confessing what the poster wants, dressed as a joke), the leak baits (every viewer either feels accused or starts competing — engagement either way), the bait installs (posted publicly, the frame becomes real because everyone starts acting inside it). Not three readings — one pipeline.
+
+---
 ## Deliberately excluded
 
 - "Shadow" as a background-process metaphor (no Jungian content), excluded per scope.
