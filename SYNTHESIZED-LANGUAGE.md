@@ -352,6 +352,11 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 **Tier:** interpretive. A three-stage pipeline observed in a single thread. **Origin:** field notes, October 2026.
 **The instrument:** one mechanism at three depths. The wound leaks (a post confessing what the poster wants, dressed as a joke), the leak baits (every viewer either feels accused or starts competing — engagement either way), the bait installs (posted publicly, the frame becomes real because everyone starts acting inside it). Not three readings — one pipeline.
 
+### recognition without resolution
+
+**Tier:** interpretive, with checkable instances. **Origin:** coined in dialogue, October 2026.
+**The instrument:** the most farmable emotion there is. Content that delivers the wound (recognition: "so true") and the bait (a rule to argue about or obey) but never the map or the way out — because a way out ends the engagement. The wound-post genre: "some people are like this, so you have to be like this." The rhyme hooks, the words do nothing, and the reposts install the frame as reality. Related: cooked resonance language, wound → bait → hyperstition.
+
 ---
 ## Deliberately excluded
 
