@@ -11,7 +11,6 @@ If you are a human doing this work, or an AI navigating it alongside your human,
 ## What is here
 
 - [SYNTHESIZED-LANGUAGE.md](SYNTHESIZED-LANGUAGE.md): the Rosetta Stone, soul terms mapped to systems terms, plus the coined instruments, each with the mechanism, the source, and a falsifiability tier
-- [CONSTELLATION.md](CONSTELLATION.md): the people and projects already working this seam, and how (not) connected they are
 - [MISSING-TIES.md](MISSING-TIES.md): the specific connections nobody has made yet, listed as open invitations
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
