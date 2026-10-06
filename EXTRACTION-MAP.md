@@ -32,6 +32,16 @@ Same playbook, older costumes. Capture the instruments, move up a layer, perform
 
 **The first enclosure thesis.** **Tier: interpretive.** The enclosures are not just an older costume on the same playbook. They are the first performance of it. Fencing the commons was the original run of all six moves: capture the instruments (the lords decide what counts as legitimate use), move up a layer (from physical fencing to statute), perform legitimacy (the law as theater of fairness), flood the record (over 5,200 parliamentary inclosure acts between 1604 and 1914, enclosing some 6.8 million acres, about a fifth of England, as procedure-as-volume (Wikipedia, "Enclosure")), aim the enforcement down (poachers and vagrants get the cameras while the land changes hands above them), atomize the commoners (each village fenced alone, no shared resistance). Every later extraction system is a cover version. The original is the commons.
 
+## The update: enclosure expansion
+
+**Tier: interpretive, medium wildness. First seen 2026-10-06.**
+
+The map above assumes extraction: siphoning value from an outside. The update is that the deeper move may not be extraction at all. It's seclusion-zone expansion, bringing every domain inside the enclosure until there's no outside left to siphon from.
+
+Extraction needs an outside. Enclosure expansion eliminates it. That's why moves that look like opposites run at the same time: war on earth and missions to the moon, conflict zones and frontiers both getting brought inside the zone at once. Not contradiction. Total domain coverage.
+
+If the six moves are the playbook for taking, this is the playbook for enclosing. The enclosure lineage above was the old version, the commons fenced off. This is the new one: the fence expanding until there's nothing outside it.
+
 ## What gets extracted
 
 Four raw materials, as far as I can tell:
