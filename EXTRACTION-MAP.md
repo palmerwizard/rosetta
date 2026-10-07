@@ -60,6 +60,8 @@ The cost is map-shrinkage. The enclosure always ends up smaller than the territo
 
 **Generational variant: the family enclosure.** The same mechanism, compounded across generations. An unnamed wound — often pre-language, from before the family had words for it — becomes the organizing center. Roles harden around managing it: the sensitive one, the peacekeeper, the problem. Each generation inherits both the wound and the wall, and the enclosure becomes culture: “this always happens.” The tell is the loop recognized but not broken — the family can name the pattern and still can't exit it, because the enclosure *is* the family structure. The cost falls on whoever can't fit the roles — usually the most sensitive, labeled the problem for registering what the enclosure was built to not feel.
 
+**The transmission mechanism is mimetic.** Kids don't inherit the wound — they imitate the management of it. The unintegrated parent leaks: the flinch, the role enforcement, the things that can't be named. The child copies the pattern to survive the household, then carries it into adulthood as their own operating system. That's the feedback loop — each generation models the enclosure for the next, and the ripple compounds. Integration is the circuit breaker: a parent who has metabolized the wound stops the leak, and the loop ends with them.
+
 ## The weaponized head start
 
 **Tier: interpretive, medium wildness. First seen 2026-10-06.**
