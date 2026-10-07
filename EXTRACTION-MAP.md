@@ -58,6 +58,8 @@ The tell is the flip test. A boundary built on reason survives category reversal
 
 The cost is map-shrinkage. The enclosure always ends up smaller than the territory the person actually knows. The instrument points one way; the wall points the other. When the map contradicts the craft — a universal instrument serving a categorical enclosure — the enclosure is running on the wound, not the work.
 
+**Generational variant: the family enclosure.** The same mechanism, compounded across generations. An unnamed wound — often pre-language, from before the family had words for it — becomes the organizing center. Roles harden around managing it: the sensitive one, the peacekeeper, the problem. Each generation inherits both the wound and the wall, and the enclosure becomes culture: “this always happens.” The tell is the loop recognized but not broken — the family can name the pattern and still can't exit it, because the enclosure *is* the family structure. The cost falls on whoever can't fit the roles — usually the most sensitive, labeled the problem for registering what the enclosure was built to not feel.
+
 ## The weaponized head start
 
 **Tier: interpretive, medium wildness. First seen 2026-10-06.**
