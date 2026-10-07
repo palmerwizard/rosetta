@@ -50,6 +50,14 @@ Extraction needs an outside. Enclosure expansion eliminates it. That's why moves
 
 If the six moves are the playbook for taking, this is the playbook for enclosing. The enclosure lineage above was the old version, the commons fenced off. This is the new one: the fence expanding until there's nothing outside it.
 
+## Trauma-based enclosures
+
+**Tier: interpretive.** Not all enclosures are built by systems. Some are built by wounds. The mechanism: hardship or violation narrows the circle to whoever feels safe — then the narrowing hardens into identity. The in-group gets sanctified, the out-group gets sorted into the threat category, and the enclosure becomes self-maintaining: anything that questions the wall reads as an attack from outside it.
+
+The tell is the flip test. A boundary built on reason survives category reversal; a boundary built on trauma doesn't. If the rule would be absurd with the categories swapped, it's not a principle — it's a wound wearing a principle's clothes.
+
+The cost is map-shrinkage. The enclosure always ends up smaller than the territory the person actually knows. The instrument points one way; the wall points the other. When the map contradicts the craft — a universal instrument serving a categorical enclosure — the enclosure is running on the wound, not the work.
+
 ## The weaponized head start
 
 **Tier: interpretive, medium wildness. First seen 2026-10-06.**
