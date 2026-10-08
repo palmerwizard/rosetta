@@ -59,6 +59,20 @@ Not a platform pitch. Structural proposals, each one a counter to a specific bre
 
 **Tier on the proposals: speculative.** They're directions, not a blueprint. Constructive collapse, not destruction: map the whole pattern before removing anything, because naming the game out loud is the intervention.
 
+## Unfiltered rooms and the social gymnasium
+
+**Tier: interpretive, with checkable instances.**
+
+Before platform-wide moderation regimes, multiplayer game lobbies ran unfiltered. The texture is well documented: trash talk, slurs, chaos — and in the same room, real laughter, real wit, real bonding. The room was raw, and the rawness did structural work. With no system filtering speech, every participant trained their social muscle in real time: read the room, read intent, tell play from malice, develop a thick skin, give it back, know when to leave. The room was a social gymnasium, and the training was mandatory because nobody was doing it for anyone.
+
+The moderation regime moved the social work from the person to the platform. Speech gets pre-sorted before anyone has to navigate it. The loss is not the slurs. The loss is the atrophy. Nobody has to learn to handle friction anymore, because the system removes it in advance. Sociality is a muscle; outsourced sociality is a deskilled user. Same pattern as every other deskilling move: friction removed where the growth happened, flow installed where the mechanics are.
+
+The honest accounting runs both directions. The unfiltered room was a gymnasium for the in-group and a wall for everyone else. The same lack of mediation that built wit and resilience made the room unlivable for players who were targeted rather than teased — people who came to play and found a gauntlet instead. The filtering didn't come from nowhere; it came from the wall. Nostalgia that edits out the wall is just another story.
+
+So the design question is not "bring back 2013." It is: how do you build a room that is unfiltered AND livable — where the social work lives in the people, not the platform? The surviving instances point at persistence. Long-running game worlds with persistent identity still run largely unmoderated rooms, and reputation does the work that rules do elsewhere. The regulars enforce the norms, the drive-bys can't hide, and the social muscle stays in the people. Ephemerality is what made the old lobbies brutal; persistence is what makes the surviving ones work.
+
+**Proposal: unfiltered rooms with persistent identity as community infrastructure.** Campfires, not feeds — and no bouncer at the door, because the room does its own social work.
+
 ## Open invitations
 
 - **Empath architects.** If you've built or run a room that optimizes for reciprocity instead of performance, the mechanics are wanted here. What worked, what broke.
