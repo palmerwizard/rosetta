@@ -223,6 +223,11 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 **Tier:** interpretive, built on two published theories. **Origin:** coined in field notes, October 2026.
 **The instrument:** the copying layer: memes and borrowed desire, the channel through which the fire is carried out of the maker. Two theories of imitation meet here: Dawkins' copied ideas and Girard's copied desire (people want what their models want; rivalry and the scapegoat follow). Hyperstition travels on it, meme magic rides it, memetic warfare aims it. Use: when a want arrives already shaped, trace whose it was first.
 
+### memetic engineered surprise
+
+**Tier:** interpretive. **Origin:** coined in field notes, October 2026.
+**The instrument:** engineered to surprise: the copy is built to move beliefs (Bayesian surprise, Itti & Baldi); moved beliefs capture attention, and captured attention gets copied.
+
 ### the door
 
 **Tier:** interpretive. **Origin:** coined in field notes, October 2026.
