@@ -216,9 +216,9 @@ Extraction needs an outside. Enclosure expansion eliminates it. War on earth and
 
 If the map was the playbook for taking, this is the playbook for enclosing. Needs help: the expansion mechanism per domain isn't mapped yet.
 
-**Hermetics seals, mimetics spreads, the mirror does both.** *Mine, new. Interpretive. First seen 2026-10-06.*
+**Hermetics seals, memetics spreads, the mirror does both.** *Mine, new. Interpretive. First seen 2026-10-06.*
 
-The words were sitting there. Hermetics is the sealed transmission: compress the pattern, obscure it, let it survive as a seed. Mimetics is the spread transmission: copy the pattern, replicate it, let it survive as a swarm. Two survival strategies for patterns across time.
+The words were sitting there. Hermetics is the sealed transmission: compress the pattern, obscure it, let it survive as a seed. Memetics is the spread transmission: copy the pattern, replicate it, let it survive as a swarm. Two survival strategies for patterns across time.
 
 "As above, so below" was a mirror statement the whole time. The mirror doesn't just reflect; every reflection is a copy. The instrument sits at the center of both: it seals (holds the pattern) and spreads (reflects it outward).
 
