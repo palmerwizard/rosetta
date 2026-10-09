@@ -116,6 +116,24 @@ the project's founding question cannot be tested on this corpus, and the
 round 1-4 ambiguity results must be read as measuring agreement with drafted
 labels rather than with a reader.
 
+This finding replicates a documented phenomenon rather than announcing a
+new one. Readers have long been observed to experience a single reading
+where grammatical theory counts dozens: Altmann (1998) notes that "Time
+flies like an arrow" admits nearly a hundred permissible readings, none of
+which readers notice. Piantadosi, Tily, and Gibson (2012) argue the pattern
+is structural to efficient communication itself: ambiguity lets a language
+reuse short, easy forms because context does the disambiguating work in
+use, which is why sentences examined in isolation look more ambiguous than
+they ever are in practice. Wasow similarly observes that sentences taken in
+isolation are ambiguous "although hearers have no difficulty in
+understanding what meaning was intended," attributing this to speakers
+leaving out whatever hearers can infer. The canon's contribution is the
+model-side half of the picture: the tested models are torn exactly where
+the textbook is torn (Section 5), so embedding-space closeness tracks the
+theory's ambiguity, not the reader's. The round 1-4 null results are
+therefore better read as honest measurements of the wrong quantity than as
+failures to find anything.
+
 ## 5. Model-reader agreement
 
 On the 35 low-ambiguity texts with annotator-chosen dominant readings, the
@@ -185,12 +203,14 @@ bi-encoder and cross-encoder were evaluated.
   form a benchmark: prompt a large language model to select the reading for
   each text and compare. This tests whether scale overcomes the failure or
   reproduces it.
-- **Replication.** The corpus, labeling procedure, and full build are public.
-  Independent labeling efforts are the fastest way to establish how far the
-  canon's failure generalizes.
 
 ## References
 
+- Altmann, G. (1998). Ambiguity in sentence processing. *Trends in Cognitive
+  Sciences.*
+- Piantadosi, S. T., Tily, H., and Gibson, E. (2012). The communicative
+  function of ambiguity in language. *Cognition*, 122, 280-291.
+- Wasow, T. (manuscript). Ambiguity. Stanford University.
 - Fromkin, V. and Rodman, R. (1983). *An Introduction to Language.* (Cited
   via teaching materials for the deep-structure ambiguity examples.)
 - Ramsauer, H. et al. (2020). Hopfield Networks is All You Need.
