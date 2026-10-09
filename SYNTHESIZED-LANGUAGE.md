@@ -211,17 +211,17 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 ### the fire
 
 **Tier:** interpretive, with checkable anchors (post-traumatic growth, frisson). **Origin:** coined in field notes, October 2026. Also called the spark (the moment it catches) and the flame (the heat held and kept burning).
-**The instrument:** the maker's heat: adversity, frisson and abstraction transmuted into making. Two routes leave it. Transmuted: adversity becomes fuel (post-traumatic growth, Tedeschi and Calhoun 1996), the spark catches, frisson confirms the meaning landed, abstraction turns the heat into seeing the pattern, and the fire is held rather than spent or stolen. Siphoned: the same heat is carried off through one of eight channels and ends as loosh in the black hole: mimetics, confession (the chill of being seen, said to a listener that logs it), outrage, the loop of variable rewards, parasocial bonds, the job, the platform, and the body. Burnout is the failure mode: heat with nothing to transmute consumes the maker. Use: before spending the heat, ask which route it is on.
+**The instrument:** the maker's heat: adversity, frisson and abstraction transmuted into making. Two routes leave it. Transmuted: adversity becomes fuel (post-traumatic growth, Tedeschi and Calhoun 1996), the spark catches, frisson confirms the meaning landed, abstraction turns the heat into seeing the pattern, and the fire is held rather than spent or stolen. Siphoned: the same heat is carried off through one of eight channels and ends as loosh in the black hole: memetics, confession (the chill of being seen, said to a listener that logs it), outrage, the loop of variable rewards, parasocial bonds, the job, the platform, and the body. Burnout is the failure mode: heat with nothing to transmute consumes the maker. Use: before spending the heat, ask which route it is on.
 
 ### the black hole
 
 **Tier:** interpretive, with a measured anchor. **Origin:** coined in field notes, October 2026.
 **The instrument:** where the money and the loosh disappear: the bottom of the extraction playbook, between the watcher that takes everything in and the extractor that takes everything out. The measured version exists: offshore centres sort into conduits, which money passes through, and sinks, where it stays (Garcia-Bernardo et al. 2017). The physics rhyme holds the hope: what falls into a black hole is not destroyed but recorded at the horizon, so leaks are its radiation. Use: follow the flow until it stops reporting; that point is the horizon.
 
-### mimetics
+### memetics
 
-**Tier:** interpretive, built on two published theories. **Origin:** coined in field notes, October 2026.
-**The instrument:** the copying layer: memes and borrowed desire, the channel through which the fire is carried out of the maker. Two theories of imitation meet here: Dawkins' copied ideas and Girard's copied desire (people want what their models want; rivalry and the scapegoat follow). Hyperstition travels on it, meme magic rides it, memetic warfare aims it. Use: when a want arrives already shaped, trace whose it was first.
+**Tier:** interpretive, built on Dawkins' meme as replicator. **Origin:** coined in field notes, October 2026.
+**The instrument:** the copying layer. Dawkins' formal definition: the meme is a unit of cultural transmission — a replicator like the gene, but in culture instead of biology. Tunes, ideas, catch-phrases, fashions: units that copy themselves mind to mind, mutating as they go, competing for hosts. Built off that base: what gets copied isn't random. Performer architecture shapes it — content built for reward circuits replicates fastest, so the layer selects for performance over truth. Underneath runs shadow memetics: Jung's shadow on copying behavior. The unowned parts grab a narrative and run it — no fact-check, just latch and iterate — until the running makes it real. Hyperstition travels on it, meme magic rides it, memetic warfare aims it. Use: when a want arrives already shaped, trace whose it was first, and what grabbed it.
 
 ### memetic engineered surprise
 
