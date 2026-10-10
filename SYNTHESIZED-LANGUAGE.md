@@ -233,6 +233,16 @@ Terms coined in the field work behind this repo. Same tier discipline as the pai
 **Tier:** interpretive. **Origin:** coined in field notes, October 2026.
 **The instrument:** not a threshold; the stop. Extraction ends when the looking stops being handed another job. The door is not found by going further in but by declining the next assignment the attention is given. Pairs with the transcendence function: the third position is where the door is.
 
+### door function
+
+**Tier:** interpretive. **Origin:** coined October 2026.
+**The instrument:** passage to a true thing with no legible path. A door is found — in a proof, in a person, in a moment — walked through, and the far side is real though no one can reconstruct the route. People do this constantly: the spine knows before the mind can say why, the answer arrives whole with the working hidden. The door exists whether or not anyone can show the path. Cousin of zero point knowledge: what can't be transferred can still be reached. Use: when a result is right but the derivation is missing, name the door instead of demanding the map.
+
+### zero proof knowledge
+
+**Tier:** interpretive. **Origin:** coined October 2026, inversion of the cryptographic zero-knowledge proof.
+**The instrument:** arrival without derivation. A zero-knowledge proof shows you know something without revealing how; zero proof knowledge is the inversion — the how was never legible to anyone, including the arriver. There is no path, only the door and the far side. People live here too: the body knows things the mouth can't derive — tacit, felt, true before it's explainable. Correctness unbundled from explanation isn't a machine novelty; it's the human default wearing new clothes. Use: distinguish withheld method (extraction) from absent method (the door) — one hides, the other never had.
+
 ### transcendence function
 
 **Tier:** interpretive, after Jung's transcendent function (1916). **Origin:** field notes, October 2026.
