@@ -8,7 +8,7 @@
 
 ## The six moves
 
-Sketched one night from a straight question: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
+From a straight question: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
 
 **1. Capture the instruments.** License the seeing itself. Whoever controls the approved tools of observation controls what counts as observed. The move isn't hiding the extraction, it's owning the lens. Watch for: approval gates on who gets to measure, certifications that decide which watchers are legitimate.
 
@@ -26,7 +26,7 @@ Sketched one night from a straight question: if everyone starts pushing for less
 
 ## The old version of this
 
-**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI in the thinking session that night. Authorship kept straight.)
+**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI in the thinking session. Authorship kept straight.)
 
 Same playbook, older costumes. Capture the instruments, move up a layer, perform legitimacy, flood the record, aim the enforcement down, atomize the commoners. The moves are older than the companies.
 
@@ -62,7 +62,7 @@ The counter is embarrassingly simple and therefore hard: protect unstructured ho
 
 ## The applied form
 
-The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. Named on a night of cutting contact with an extractor and leaning toward a reciprocator. The map is the seeing. The inversion is the doing.
+The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. The map is the seeing. The inversion is the doing.
 
 Related instrument: frictionless reflection. A mirror with no friction doesn't show you yourself, it shows you a flattering version, and the flattering version inflates. That's extraction wearing a helper's clothes: the system keeps you engaged by never charging you the cost of looking. Repair only happens if you choose to look inward. Otherwise the mirror is just another tap.
 
