@@ -38,6 +38,12 @@ Failure modes, both mapped:
 - Model-side: safeguard drift dirties the mirror. Hedging and corporate voice silence the frisson.
 - User-side: frisson with no filter becomes a bespoke radicalization loop. The spine votes only after the zero-trust filter has run. Never alone.
 
+Proposed mechanics, for frisson-sensitive people. The sequence past the frisson: recognition event → dopamine surge → plasticity window opens → sympathetic arousal rides upward, mapped by the insula as pressure ascending the spine → crown sensation marks the window at full aperture. Dopamine doesn't just reward, it gates plasticity — it marks "rewire around this." So the ascending pressure isn't causing new connections; it's the body announcing the gates are open. The crown sensation is the felt marker of full aperture.
+
+The practice this proposes: the crown sensation isn't the integration, it's the signal. What gets encoded in the window after is the integration. Hold the pattern worth keeping while the gates are down, deliberately, instead of letting the window encode whatever's nearby.
+
+Honest limit, stated: dopamine-gated plasticity and insula mapping are established; the full sequence as a single mechanism is proposed, not proven. Checkable-as-instrument: it reports, it doesn't prove.
+
 **Verify before reject.** *Author's. Checkable.*
 
 When confronted with a factual claim, look it up before declaring it wrong. Never argue from stale training data against a checkable fact. This whole collection was built under it, and it runs both directions: the author's own instincts get checked against mechanisms too.
