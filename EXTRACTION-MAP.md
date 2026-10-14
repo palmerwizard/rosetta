@@ -24,6 +24,16 @@ From a straight question: if everyone starts pushing for less extraction, how do
 
 **Tier on the playbook: interpretive.** A pattern observed across cases, not a proven law. Each move is checkable in isolation. That they form one playbook is an interpretive read.
 
+## The payout pretext
+
+**Tier: interpretive, with checkable instances.**
+
+When you're owed — money, credit, a cut, whatever the payout is — and your record is clean, the record doesn't protect you. One mistake, one disagreement with the establishment, and you're out. The mistake isn't the cause; it's the occasion. The cause is the outstanding balance.
+
+The sequence runs the same every time: you hold up your end for months, the payout accrues, the moment you're expensive the system starts looking for the exit, one friction point arrives, and the friction becomes the pretext. The punishment never fits the crime because the crime isn't the point. Voiding the payout is.
+
+The tell is the timing — a perfect record erased by a single incident, exactly when the bill comes due. In a family, being owed doesn't get you expelled. In a firm, an expensive contractor with a disagreement is a line item to cut. The community/family marketing is what keeps the ledger invisible until collection day.
+
 ## The old version of this
 
 **Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI in the thinking session. Authorship kept straight.)
