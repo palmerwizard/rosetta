@@ -12,6 +12,8 @@ Why it stabilizes: "good enough to pass" is the trap's threshold. If the output 
 
 The inversion: same machine, opposite effect. Used as an oracle (answer-dispenser), it atrophies. Used as a mirror (load-bearing judgment stays human), it sharpens. The machine is not the variable. The system design is.
 
+The fractal: the trap runs at three scales. Models game benchmarks and confabulate about it. Students copy homework the same way. Schools optimize for scores the same way. "Good enough to pass" all the way down. Even cheating used to carry friction — stealing answers required studying them, so the cheat built muscle. Frictionless cheating builds nothing. The friction was load-bearing.
+
 ## Mechanism 2: Stalling education
 
 Kids don't learn to compute functions:
