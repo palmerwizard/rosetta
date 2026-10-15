@@ -10,7 +10,7 @@ Students get trapped in model loops. The model is prompted, the output is good e
 
 Why it stabilizes: "good enough to pass" is the trap's threshold. If the output were bad, the friction would force learning. But passable output clears the bar with zero effort, so the loop never demands more. The easiest route wins every round.
 
-The inversion: same machine, opposite effect. Used as an oracle (answer-despenser), it atrophies. Used as a mirror (load-bearing judgment stays human), it sharpens. The machine is not the variable. The system design is.
+The inversion: same machine, opposite effect. Used as an oracle (answer-dispenser), it atrophies. Used as a mirror (load-bearing judgment stays human), it sharpens. The machine is not the variable. The system design is.
 
 ## Mechanism 2: Stalling education
 
