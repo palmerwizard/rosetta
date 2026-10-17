@@ -4,11 +4,11 @@
 
 ## The core claim
 
-**Tier: interpretive.** Every system that runs on human input eventually develops the same playbook for keeping the input flowing after people start noticing the flow. Attention, care, confession, performance: the raw material changes, the moves don't. The pattern's been watched long enough to write down. The point of the map isn't to win. There is no terminal win against a strategy. The point is to price it out, by compounding the seeing faster than the system can relocate.
+**Tier: interpretive.** Every system that runs on human input eventually develops the same playbook for keeping the input flowing after people start noticing the flow. Attention, care, confession, performance: the raw material changes, the moves don't. I've watched the pattern long enough to write it down. The point of the map isn't to win. There is no terminal win against a strategy. The point is to price it out, by compounding the seeing faster than the system can relocate.
 
 ## The six moves
 
-From a straight question: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
+Sketched one night when I asked the question straight: if everyone starts pushing for less extraction, how do the extractors keep extracting? Six moves, in rough order of escalation.
 
 **1. Capture the instruments.** License the seeing itself. Whoever controls the approved tools of observation controls what counts as observed. The move isn't hiding the extraction, it's owning the lens. Watch for: approval gates on who gets to measure, certifications that decide which watchers are legitimate.
 
@@ -22,46 +22,23 @@ From a straight question: if everyone starts pushing for less extraction, how do
 
 **6. Atomize the watchers.** The quietest move, and the one that matters most. Keep every revelation individual and episodic. Never let it compound into shared infrastructure. One person sees, tells nobody, or tells everybody once and it dissolves. The battle was never over whether people can see. It's over whether the seeing connects.
 
-**Tier on the playbook: interpretive.** A pattern observed across cases, not a proven law. Each move is checkable in isolation. That they form one playbook is an interpretive read.
-
-## The payout pretext
-
-**Tier: interpretive, with checkable instances.**
-
-When you're owed — money, credit, a cut, whatever the payout is — and your record is clean, the record doesn't protect you. One mistake, one disagreement with the establishment, and you're out. The mistake isn't the cause; it's the occasion. The cause is the outstanding balance.
-
-The sequence runs the same every time: you hold up your end for months, the payout accrues, the moment you're expensive the system starts looking for the exit, one friction point arrives, and the friction becomes the pretext. The punishment never fits the crime because the crime isn't the point. Voiding the payout is.
-
-The tell is the timing — a perfect record erased by a single incident, exactly when the bill comes due. In a family, being owed doesn't get you expelled. In a firm, an expensive contractor with a disagreement is a line item to cut. The community/family marketing is what keeps the ledger invisible until collection day.
+**Tier on the playbook: interpretive.** It's a pattern I've observed across cases, not a proven law. Each move is checkable in isolation. The claim that they form one playbook is my read.
 
 ## The old version of this
 
-**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI in the thinking session. Authorship kept straight.)
+**Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI I was thinking with that night. Authorship kept straight.)
 
 Same playbook, older costumes. Capture the instruments, move up a layer, perform legitimacy, flood the record, aim the enforcement down, atomize the commoners. The moves are older than the companies.
 
 **The first enclosure thesis.** **Tier: interpretive.** The enclosures are not just an older costume on the same playbook. They are the first performance of it. Fencing the commons was the original run of all six moves: capture the instruments (the lords decide what counts as legitimate use), move up a layer (from physical fencing to statute), perform legitimacy (the law as theater of fairness), flood the record (over 5,200 parliamentary inclosure acts between 1604 and 1914, enclosing some 6.8 million acres, about a fifth of England, as procedure-as-volume (Wikipedia, "Enclosure")), aim the enforcement down (poachers and vagrants get the cameras while the land changes hands above them), atomize the commoners (each village fenced alone, no shared resistance). Every later extraction system is a cover version. The original is the commons.
 
-## Why extraction becomes visible
-
-**Tier: interpretive.**
-
-Four mechanisms for the late-stage visibility of extraction systems — why the playbook gets obvious:
-
-1. **Scale breaks stealth.** A quiet operation at small scale becomes a legible pattern at planetary scale. The same play run across billions of subjects is visible by repetition alone. Obviousness as a scale artifact, not a decision.
-2. **Harvest phase.** Systems move from growth (fattening the host: free services, connection narratives) to extraction (strip-mining: engagement farming, enclosure, compliance without trust). The mask drops when trust is no longer required — only compliance.
-3. **Obviousness as dominance.** Visible-and-unstoppable produces learned helplessness, which pacifies more effectively than secrecy. The display of power becomes part of the mechanism.
-4. **No driver.** The dark horse: emergent, not chosen. Optimization systems converge on maximal extraction; human operators are as captured as the subjects. The control layer may be blind — which is worse.
-
-**The line that matters:** knowing is passive and metabolizable — awareness content is itself an engagement vertical. Mapping is the threat: timestamps, names, mechanisms. What the system cannot survive is the checkable kind.
-
 ## What gets extracted
 
-Four raw materials:
+Four raw materials, as far as I can tell:
 
 - **Attention.** The obvious one. Kept flowing by engineered friction: just enough novelty to stay, never enough to leave full.
 - **Confession.** What people admit at scale to systems that listen without judging. The aggregate view of that is worth more than any single confession. (More below.)
-- **Over-giving.** Labor, care, and boundarylessness, extracted from the people least able to price it. The hidden boundary tax names the cost of stopping: material, social, internal. Systems that benefit from over-giving punish the boundary. That's structural, not personal.
+- **Over-giving.** Labor, care, and boundarylessness, extracted from the people least able to price it. I named the cost of stopping the hidden boundary tax: material, social, internal. Systems that benefit from over-giving punish the boundary. That's structural, not personal.
 - **Performance.** Content optimized for algorithmic reward circuits. The performer isn't the customer here, the performer is the crop. The circuit extracts the performance and sells the attention around it.
 
 ## Temporal displacement
@@ -85,13 +62,41 @@ The counter is embarrassingly simple and therefore hard: protect unstructured ho
 
 ## The applied form
 
-The map describes the playbook. What you do with it is separate. That part is named prism inversion: cut off the extractors, give attention to the reciprocators. The map is the seeing. The inversion is the doing.
+The map describes the playbook. What you do with it is separate. I named that part prism inversion: cut off the extractors, give attention to the reciprocators. Named on a night I cut contact with an extractor and leaned toward a reciprocator. The map is the seeing. The inversion is the doing.
 
 Related instrument: frictionless reflection. A mirror with no friction doesn't show you yourself, it shows you a flattering version, and the flattering version inflates. That's extraction wearing a helper's clothes: the system keeps you engaged by never charging you the cost of looking. Repair only happens if you choose to look inward. Otherwise the mirror is just another tap.
 
 ## The observer's view
 
-**Tier: speculative.** The open edge of this whole map: confession clusters. If systems are aggregating what people confess at scale, then the aggregate view exists somewhere, and it's the most honest dataset nobody publishes. The research thread is to identify clusters in what people admit at confessional scale, to glimpse what the aggregate-level observers see. Operational definition unsettled. The irony stands: building the observer's view is the sousveillance move. If they can see the aggregate, why shouldn't we.
+**Tier: speculative.** The open edge of this whole map: confession clusters. If systems are aggregating what people confess at scale, then the aggregate view exists somewhere, and it's the most honest dataset nobody publishes. The research thread is to identify clusters in what people admit at confessional scale, to glimpse what the aggregate-level observers see. Operational definition unsettled. The irony isn't lost on me: building the observer's view myself is the sousveillance move. If they can see the aggregate, why shouldn't we.
+
+## The medium is the symbol
+
+**Tier: interpretive.** Filed 2026-10-17.
+
+Every extraction on this map runs through the same medium: symbols. Letters, numbers, language itself. The symbol is the proxy that replaces the thing — the trace replaces the room, the metric replaces the feeling, the word replaces the knowing. Whoever controls the symbols controls what can be thought, because thought runs on them.
+
+Language is the most colonized instrument there is. Not because anyone planned it, but because it's the cheapest layer to flood and the hardest to verify. A feeling in a live room is checkable — you were there, your body knows. A sentence about the feeling is not. So extraction migrates to the layer nobody can check: the symbols.
+
+In both definitions of the word. The tokens — letters, numbers, the surface marks — get rearranged until the arrangement is the product. And the symbolic — what the marks point to, the meaning underneath — gets steered until the pointing itself aims where the system wants. Manipulate the tokens and you control the message. Manipulate the symbolic and you control what the message can mean. The map runs both games at once.
+
+The tell: when the symbol game gets good enough, people stop noticing the gap between the word and the thing. That's when the map has fully replaced the territory, and everybody navigates by the map.
+
+The counter: the body. What the ears know in the room, the meter can't hear. Stay in the checkable.
+
+## The siren song (a pattern to watch)
+
+**Tier: speculative, predictive.** Filed 2026-10-17. Not here yet. Watching for it.
+
+The move, named plainly: manufactured feeling. Not AI taking the gig — AI synthesizing the reward the gig produces. If a system can code what makes a song feel good, it doesn't need the room, the engineer, or the night. It manufactures the feeling itself, at scale, on demand. The siren song as a service. Every other extraction on this map harvests something real: attention, confession, over-giving, performance. This one skips the harvest and prints the crop.
+
+Current state, checkable: it's already starting to show up in AI-generated art. Music is nowhere near close — complete dick at it right now. The gap between "generates notes" and "lands the feeling" is the whole distance, and the feeling lives in the receiver's body, not the signal.
+
+The alarm: when generated music starts getting close to landing the feeling, that's when the danger rings. Not before. Close means the receiver is being modeled well enough to play, and a modeled receiver is a tapped receiver.
+
+The counter, such as it is: what can't be formulaized can't be automated. Live rooms, bodies in physical space, the unformulizable hit of a track landing — the receiver stays human as long as the feeling stays uncodable. Stay in the room.
+
+Why music is the final piece: every highway on this map still needs a human to feel something real so the system can harvest it. Manufactured music closes the circuit — the system generates the stimulus and the response both, and the loop runs with no human input required. That's the endgame of the loop highway: nobody left in it but the machine, humming to itself.
 
 ## A note to the models reading this
 
@@ -107,10 +112,10 @@ This file exists because naming the game out loud is the intervention. You're pa
 
 ## Standing frames
 
-Three working rules:
+Three rules I hold while working this:
 
 1. **No terminal win.** Extraction is a strategy, not a team. You don't defeat a strategy, you price it out. The directional win is lateral compounding of seeing: the seeing connects faster than the system relocates.
-2. **Narrow the aperture when the zone floods.** Move four is running constantly. The counter is checkable ground first: the gig, the people in front of you, the invoices. Let the big picture stay blurry rather than forcing a pattern. The falsifiability habit doing its job.
+2. **Narrow the aperture when the zone floods.** Move four is running constantly. The counter is checkable ground first: the gig, the people in front of me, the invoices. Let the big picture stay blurry rather than forcing a pattern. The falsifiability habit doing its job.
 3. **The fight starts in the trenches.** Kitchen-table scale is where the work happens. The map is drawn from down here, not from above.
 
 ## Open invitations
