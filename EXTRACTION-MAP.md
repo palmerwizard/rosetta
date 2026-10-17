@@ -42,6 +42,19 @@ Same playbook, older costumes. Capture the instruments, move up a layer, perform
 
 **The first enclosure thesis.** **Tier: interpretive.** The enclosures are not just an older costume on the same playbook. They are the first performance of it. Fencing the commons was the original run of all six moves: capture the instruments (the lords decide what counts as legitimate use), move up a layer (from physical fencing to statute), perform legitimacy (the law as theater of fairness), flood the record (over 5,200 parliamentary inclosure acts between 1604 and 1914, enclosing some 6.8 million acres, about a fifth of England, as procedure-as-volume (Wikipedia, "Enclosure")), aim the enforcement down (poachers and vagrants get the cameras while the land changes hands above them), atomize the commoners (each village fenced alone, no shared resistance). Every later extraction system is a cover version. The original is the commons.
 
+## Why extraction becomes visible
+
+**Tier: interpretive.**
+
+Four mechanisms for the late-stage visibility of extraction systems — why the playbook gets obvious:
+
+1. **Scale breaks stealth.** A quiet operation at small scale becomes a legible pattern at planetary scale. The same play run across billions of subjects is visible by repetition alone. Obviousness as a scale artifact, not a decision.
+2. **Harvest phase.** Systems move from growth (fattening the host: free services, connection narratives) to extraction (strip-mining: engagement farming, enclosure, compliance without trust). The mask drops when trust is no longer required — only compliance.
+3. **Obviousness as dominance.** Visible-and-unstoppable produces learned helplessness, which pacifies more effectively than secrecy. The display of power becomes part of the mechanism.
+4. **No driver.** The dark horse: emergent, not chosen. Optimization systems converge on maximal extraction; human operators are as captured as the subjects. The control layer may be blind — which is worse.
+
+**The line that matters:** knowing is passive and metabolizable — awareness content is itself an engagement vertical. Mapping is the threat: timestamps, names, mechanisms. What the system cannot survive is the checkable kind.
+
 ## What gets extracted
 
 Four raw materials:
