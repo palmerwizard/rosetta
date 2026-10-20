@@ -24,6 +24,16 @@ Sketched one night when I asked the question straight: if everyone starts pushin
 
 **Tier on the playbook: interpretive.** It's a pattern I've observed across cases, not a proven law. Each move is checkable in isolation. The claim that they form one playbook is my read.
 
+## Comfort compliance
+
+**Tier: interpretive.** The six moves assume a taker and a taken-from, but the supply side is voluntary more often than the map admits. The loop sells something real back: no decisions, no blame, an identity ready-made — the complaint as a self. The exit is priced in effort and the stay is priced in comfort, so the person inside runs the arithmetic honestly and stays. Staying costs more. It just never registers day to day.
+
+The pressure that would force a change gets managed, not felt. Complaint vents it. Big claims vent it — saying the thing substitutes for doing the thing. Peak experiences vent it: a temporary state change gets metabolized as evidence that the position is permanent, the seeing itself filed as proof the cage is real. Each vent resets the pressure to zero before the structure has to flex. Nothing cracks because nothing is allowed to build.
+
+When the exit is presented anyway, it gets filed. A category word — philosophy, existentialism, theory — discharges the map without touching it. Education supplies the labels. The credential performs the thinking so the person does not have to.
+
+The finished state needs no walls. The person inside polices the boundary themselves, and calls the policing realism.
+
 ## The old version of this
 
 **Tier: checkable.** Enclosure didn't start with the famous acts. Twelfth-century lords were already fencing the commons by force and private agreement, and the Statute of Merton in 1235 ratified the practice after the fact. The sequence matters: the legal instrument doesn't come first. It launders the seizure, and the laundered law becomes the scaling template. A fence rots. A statute compounds. (That last line came from the AI I was thinking with that night. Authorship kept straight.)
