@@ -116,6 +116,22 @@ What it feeds: the resolution discount. Owners settled by exhaustion accept skip
 
 The counter is escalation with a record. The performance requires an uninformed, unrecorded counterparty; a dated paper trail, or a third party carrying its own ledger — an insurer, a regulator, a chargeback — ends the faked phase on contact, because the delay was never load-bearing. It was only ever priced in the owner's isolation.
 
+### The authorless operation
+
+**Tier: interpretive, structural.** A classic psyop has an author: an operator designs the operation, selects the audience, and aims at a specific effect. The platform version produces the same output with no author at all. No committee designs it. The incentive gradient designs it: maximize engagement; the most engaging material is confession; confessions are psychological data; the data trains the targeting; the targeting steers behavior. Every step is ordinary business. The sum is an influence operation running continuously on the whole population.
+
+The confession is the payload. A like is a confession of preference. A comment is a confession of position. A direct message is a confession with the expectation of privacy still attached. The system does not need to interrogate anyone; it builds rooms where people volunteer the material, rewards the volunteering with visibility, and files everything. What an intelligence service once spent budgets extracting, the feed collects as a byproduct of people trying to be seen.
+
+It stabilizes because no single step presents as an operation. A recommendation engine is a feature. An engagement metric is a business tool. A targeted ad is commerce. The operation only exists at the level of the whole loop, and the whole loop has no owner to point at — which is also its defense: a psyop with no author cannot be exposed, because there is no plan to leak. There is only a gradient, and gradients plead innocent.
+
+What it feeds: the harvest itself. Psychological profiles at population scale, refreshed in real time, owned by whoever runs the room. Attention goes in, steering comes out, and the difference collects in the sink.
+
+The discriminator: intent is the wrong test. Judged by authorship, this is not a psyop — nobody wrote it. Judged by function — what it collects, what it does with the collection, whose behavior changes — the moves are the psyop's moves, run at a scale no authored operation ever reached. Name the moves, not the movers: the movers, in this case, are a metric and a market.
+
+The counter is at the point of confession. What is said in the room is the raw material; the harvest only works on unpriced confession. A confession given with its cost counted — knowing it will be filed, modeled, and used to steer — is a different substance from one extracted by design of the room. The gradient cannot be argued with. It can only be starved.
+
+Put as a fork: either everything is a psyop, or our language is seeded with psy-ops. The second horn is sufficient on its own. Vocabulary planted upstream of thought steers every conclusion later drawn in it — no operation required, because the thinking itself arrives pre-steered. The harvest and the seeding are the same system seen from two ends: one extracts what people confess, the other pre-loads what they are able to say.
+
 ## The applied form
 
 The map describes the playbook. What gets done with it is separate.
