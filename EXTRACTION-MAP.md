@@ -104,6 +104,18 @@ The healthcare instance is the same system on a different asset. Medicine defers
 
 What it feeds: the sink. Margin that exists only because decay was transferred to someone with no ledger returns nothing — not to the building, not to the body, not to the commons.
 
+### The faked delay
+
+**Tier: interpretive, with a checkable discriminator.** A custodian holds an asset the owner cannot self-retrieve — a vehicle in a service bay, a deposit, a document, an account — and runs delay that is not caused by the work. The instruments: no information, no timeline, no accountable name; the asset "cannot be located"; updates arrive on the custodian's schedule or not at all. The delay performs synchronization with real work while being decoupled from it: a faked phase relationship.
+
+The discriminator is what separates it from ordinary slowness. A real delay has a mechanism underneath — a part in transit, a queue, a failed step — and its account survives repeated questioning unchanged, because it is describing something. A faked delay's account shifts with the audience and the moment, because it describes nothing; it manages the owner. Real delays can be interrogated. Faked delays can only be waited out.
+
+It stabilizes because custody is leverage. Each day of performed delay spends the owner's patience — the one currency the owner cannot bill back — while costing the custodian nothing. The owner absorbs the stress privately, accepts whatever outcome ends the wait, and leaves without a record. There is no single incident to point at; the protocol presents as slowness.
+
+What it feeds: the resolution discount. Owners settled by exhaustion accept skipped work, partial remedies, and abandoned claims just to close the episode — a discount the custodian could never have negotiated openly. Time and stress extracted, nothing returned.
+
+The counter is escalation with a record. The performance requires an uninformed, unrecorded counterparty; a dated paper trail, or a third party carrying its own ledger — an insurer, a regulator, a chargeback — ends the faked phase on contact, because the delay was never load-bearing. It was only ever priced in the owner's isolation.
+
 ## The applied form
 
 The map describes the playbook. What gets done with it is separate.
