@@ -132,6 +132,20 @@ The counter is at the point of confession. What is said in the room is the raw m
 
 Put as a fork: either everything is a psyop, or our language is seeded with psy-ops. The second horn is sufficient on its own. Vocabulary planted upstream of thought steers every conclusion later drawn in it — no operation required, because the thinking itself arrives pre-steered. The harvest and the seeding are the same system seen from two ends: one extracts what people confess, the other pre-loads what they are able to say.
 
+### The decoupled symbol set
+
+**Tier: interpretive, with checkable instances.** A symbol set is cut loose from anything checkable — the dollar from gold, health from the body, education from learning, law from justice. The symbol keeps circulating; the referent is gone. Value floats on belief plus enforcement alone.
+
+Whoever controls the set can expand it without limit. The people closest to the printer get the new money first, before prices adjust; the people furthest away pay through inflation. The rules get rewritten by whoever holds the pen — inflation as a hidden tax, debt as the leash, bailouts for the issuers. Everything downstream prices in the fake set — wages, savings, contracts — so the extraction compounds silently, with no ledger anyone can check. Trust is the only collateral, and when belief cracks the symbol collapses fast: a belief crisis is a value crisis, because belief was the only value there was.
+
+It stabilizes because the decoupling is invisible at the point of use — a dollar still buys, a code still bills, a credential still opens a door. The extraction happens in the spread between issuance and adjustment, and the spread has no line item. Nobody votes on it; nobody sees the ledger.
+
+What it feeds: the sink. A symbol set with no referent can be expanded forever, so the extraction has no ceiling — the sink grows with the printing.
+
+The discriminator: reciprocity needs a checkable referent — a ledger against the territory. Extraction needs the referent gone so the rules cannot be audited. Ask what the symbol is anchored to. If the answer is an appeal to trust rather than a checkable anchor, the anchor is the issuer.
+
+The counter: re-anchor or exit. A counter-ledger priced in the territory — hours, matter, outcomes — exposes the spread; refusing the fake set where a real one exists starves it.
+
 ## The applied form
 
 The map describes the playbook. What gets done with it is separate.
