@@ -146,6 +146,28 @@ The discriminator: reciprocity needs a checkable referent — a ledger against t
 
 The counter: re-anchor or exit. A counter-ledger priced in the territory — hours, matter, outcomes — exposes the spread; refusing the fake set where a real one exists starves it.
 
+### The psychological operation
+
+**Tier: interpretive, structural.** The psyop's function in extraction is not to convince. Convincing needs argument, and argument can be answered. The function is to steer — to move behavior without the target ever being asked to agree.
+
+It works in four parts:
+
+**1. Manufacture consent without argument.** The target is never presented with a claim to accept or reject. The symbol arrives first, the script runs, the behavior follows. Consent is manufactured at the level of the reflex, not the verdict. Nothing was argued, so nothing can be argued against.
+
+**2. Make the extraction feel voluntary.** The target volunteers the material — the confession, the performance, the attention — and experiences the volunteering as their own choice. The script, once installed, is felt as an inner voice. The system does not need to force anyone; it needs only to be the room where people already want to be seen. A person who believes they chose the tap will defend the tap.
+
+**3. Pre-load the language.** The seeding runs upstream of thought. Vocabulary planted before the question is asked steers every conclusion drawn in it. The target reaches a verdict that feels like reasoning and is in fact the seed, grown. The fork: either everything is a psyop, or the language is seeded with psy-ops. The second horn is sufficient — the thinking arrives pre-steered, and no operation is required at the point of decision.
+
+**4. Keep the watcher offline.** The operation's own defense is to prevent the instrument that could see it. Flood the layer with anti-inner content — introspection as the joke, projection as the entertainment — and the population never develops the watcher. The other moves never face an audience equipped to see them. The psyop protects itself by making self-seeing look ridiculous.
+
+The authored and authorless versions differ only in the author. A classic psyop has an operator who designs it, selects the audience, aims at an effect. The platform version has no author: the incentive gradient designs it. The function is identical. Judged by authorship, the platform version is not a psyop — nobody wrote it. Judged by function — what it collects, what the collection does, whose behavior changes — the moves are the psyop's moves at a scale no authored operation reached. Name the moves, not the movers.
+
+What it feeds: the steering itself. Attention in, confession in, behavior out — and the behavior is experienced as free choice, which is what makes the extraction deniable at every step. The target cannot report being steered, because the steering never announced itself. The sink collects the difference between what the person would have done awake and what they did scripted.
+
+The discriminator: ask who benefits when the target believes they chose freely. If the room profits from the choice and the chooser cannot name the mechanism that produced it, the choice was steered.
+
+The counter: the watcher coming online. The operation cannot survive a population that names its own patterns, because the steering depends on the steering staying unfelt. Integration is the storage — the verdict written where the next mood cannot rewrite it — and a written verdict is the one thing a script cannot absorb. Starve the gradient, price the confession, keep the ledger.
+
 ## The applied form
 
 The map describes the playbook. What gets done with it is separate.
