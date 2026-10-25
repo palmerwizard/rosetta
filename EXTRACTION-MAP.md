@@ -174,6 +174,12 @@ The counter: the watcher coming online. The operation cannot survive a populatio
 
 The reward is the problem. Extraction does not need to convince anyone of anything. It needs only to pay the move. Dopamine fires on the successful deception the way it fires on any successful goal pursuit: the manipulator gets the rush, the status, the network. The cost lands later and elsewhere. Chronic deception weakens the insula — the region that carries interoception, empathy, and self-awareness — so the more someone lies, the less they feel the emotional weight of their actions. The short-term rush is real; the long-term erosion is real too. The brain discounts the later one.
 
+**The conditional and the unconditional.** The delight does not fire the same way in everyone. In some, it fires conditionally — only when the person is judged to deserve it, desert evaluated case by case. The filter is still online: the move gets weighed before it gets enjoyed. In others, it fires unconditionally — everyone deserves it, desert assumed, no evaluation. The filter is broken, and no move ever needs justification again.
+
+The unconditional version is installed, not chosen. It generalizes from an environment where everyone was a threat — usually early, usually from caregivers or a hostile room — into a rule: everyone will do it to me, so I do it first. The manipulation becomes preemptive self-defense. Once installed, it self-confirms: treat everyone as deserving it, they respond defensively, their defensiveness proves the rule right. The script licenses the move and then manufactures the evidence for it.
+
+The mechanism has a clinical name: moral disengagement, specifically attribution of blame — the victim blamed for their own victimization. "They deserved it" removes the friction that would otherwise stop the move. Generalized to everyone, the friction never returns.
+
 What it feeds: the sink. Every successful deception pays the deceiver now and charges the deceived later, and the difference collects where nothing returns.
 
 The discriminator: the rush is not a verdict. The same reward wiring fires for a move that lands and for a recognition that is true. A felt rush proves the move worked. It proves nothing about whether the move was right.
