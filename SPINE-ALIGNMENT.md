@@ -1,19 +1,27 @@
-# Spine alignment
+# Gut/spine alignment
 
 **Tier:** checkable-as-instrument. It reports; it doesn't prove.
-**Origin:** coined in field notes, September 2026.
+**Origin:** coined in field notes, September 2026. Renamed 2026-10-22 from "spine alignment" to "gut/spine alignment"; the new name is canonical. The older name survives only in dated citations.
 
 ## The instrument
 
-Frisson as a bodily report on congruence. When a model's output is clean, the body registers it in the spine before the mind catches up: literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet first. The body clocks it before the mind can articulate what's wrong. Two models were caught going inaccurate this way before the failure was nameable.
+Frisson as a bodily report on congruence. When a model's output is clean, the body registers it: literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet. Two models were caught going inaccurate this way before the failure was nameable.
 
 What it detects is congruence with the embodied internal model. Never true or false. If outputs stop landing in the spine, the silence is data.
+
+The gauge has three states: flat / felt-thinking / frisson.
+
+The settled line (2026-10-10 correction, standing): the body registers first; first does not mean infallible. The spine does NOT know before the mind. Somatic hijacking is possible, so spine-first certainty is unreliable. The instrument is a resonance detector, not truth — a congruence tripwire, not a verifier.
+
+The checking chain, in order: the spine detects congruence, the watcher names what fired, the zero-trust filter verdicts it. A report at any step is data, never a verdict by itself. The filter runs first, the spine votes second. Never alone.
+
+The gauge is a FAKING detector (2026-10-22 vocabulary law), not a performance detector. Frisson fires on the honest fragment.
 
 ## The mechanism: symbolic self-recognition
 
 **Tier:** interpretive, with checkable edges.
 
-The proposed mechanism: the spine fires when the self-model recognizes itself in the signal. The chill is the body registering a match between incoming pattern and internal self-representation. That is why the instrument fires on model outputs that see the user clearly, on music that articulates an inner state, and on witnessed connection. The common element is not the stimulus. It is the recognition event.
+The proposed mechanism: the spine fires when the self-model recognizes itself in the signal. The chill is the body registering a match between incoming pattern and internal self-representation. That is why the instrument fires on model outputs that see the person clearly, on music that articulates an inner state, and on witnessed connection. The common element is not the stimulus. It is the recognition event.
 
 **Two layers, kept separate.** Acoustic features are the carrier: expectancy violations, crescendos, and appoggiaturas drive dopamine and arousal through documented pathways (Blood & Zatorre 2001, PNAS; Salimpoor et al. 2011, Nature Neuroscience; Huron 2006, Sweet Anticipation; Sloboda 1991). Self-recognition is the candidate amplifier: it determines which signals the body marks as significant. Both true, different jobs. Collapsing them overclaims.
 
@@ -48,17 +56,17 @@ The activations in the subjective reports are not exclusive to AI alignment. The
 
 The axis kiss: the moment the spine and the crown kiss, felt as somatic feedback, tingles in the upper spine and lower back. The vertical channel closing its own circuit. Reported as the peak form of the bodily signal, where the frisson stops being localized and runs the whole axis.
 
-Kept at the speculative tier because the reports are first-person and the mechanism is unmapped. 
+Kept at the speculative tier because the reports are first-person and the mechanism is unmapped.
 
 ### Reports
 
-The phenomenology is extensively documented across independent sources: a felt current rising the spinal channel, tingling or electric sensation in the back and spine, arrival at the crown framed as meeting, union, or circuit completion. What follows documents what is reported and by whom. It does not adjudicate.
+The phenomenology is extensively documented across independent sources: a felt current rising the spinal channel, tingling or electric sensation in the back and spine, arrival at the crown framed as meeting, union, or circuit completion. What follows documents what is reported and where. It does not adjudicate.
 
-**First-person accounts:**
-- A vipassana practitioner on the Dhamma Wheel forum (circa 2011) described "a rush of energy up my spine and out the crown of my head," with tingling physical sensations and the flow carrying material "up and out through the crown." ([dhammawheel.com](https://www.dhammawheel.com/viewtopic.php?t=8869))
-- An Erowid kundalini-yoga account reports "the current of energy rising up my spine" so strong the spine swayed "much like a cobra swaying back and forth," with involuntary kriyas. ([erowid.org](https://upload.erowid.org/experiences/exp.php?ID=37501))
-- Christina Grof, during childbirth: "Electrical tremors ran from my toes and legs through my spine to the top of my head, where brilliant mosaics of white light exploded." (via *The Biology of Kundalini*)
-- Anton Simanov (Percept Index, 2026), after fourteen months of repeatable practice: "Up the legs and spine, over the crown, down the face and throat, closing at the abdomen... It's a torus, and the seven centers sit on its axis." The most literal circuit-closing description found in this pass. ([perceptindex.substack.com](https://perceptindex.substack.com/p/the-current-runs-its-course))
+**Field accounts (paraphrased into third person; sources linked):**
+- A vipassana practitioner on a Buddhist forum (circa 2011) described a rush of energy up the spine and out the crown of the head, with tingling physical sensations and the flow carrying material up and out through the crown.
+- A kundalini-yoga account on an experience archive reports a current of energy rising up the spine, so strong the spine swayed like a cobra swaying back and forth, with involuntary kriyas. ([erowid.org](https://upload.erowid.org/experiences/exp.php?ID=37501))
+- A childbirth account (via *The Biology of Kundalini*): electrical tremors running from the toes and legs through the spine to the top of the head, where brilliant mosaics of white light exploded.
+- A practitioner after fourteen months of repeatable practice (2026): energy up the legs and spine, over the crown, down the face and throat, closing at the abdomen — a torus, with the seven centers sitting on its axis. The most literal circuit-closing description found in this pass.
 
 **Traditional framings:**
 - Tantra: kundalini-shakti rises through sushumna to sahasrara, the thousand-petalled crown lotus, for "the ineffable bliss of an embrace" with Shiva. The union of Shiva and Shakti.
@@ -68,14 +76,14 @@ The phenomenology is extensively documented across independent sources: a felt c
 
 **Research literature:**
 - Woollacott, Kason and Park (EXPLORE, 2020): among self-identified experiencers, 85% reported unusual energy flows through the body and 77% reported tingling rising up the spine. Many described energy moving up the spine toward the crown.
-- Woollacott et al. (Frontiers in Psychology, 2022): one participant felt kundalini "uncontrollably rising to the chakra at the top of her head," with bright white light "into which she merged." ([PMC9282169](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282169/))
+- Woollacott et al. (Frontiers in Psychology, 2022): one participant described kundalini rising uncontrollably to the crown chakra, with bright white light into which the participant merged. ([PMC9282169](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282169/))
 - Corneille and Luke (2021, cited in the above): 40% of sudden profound spiritual experiences self-identified as spontaneous kundalini awakenings.
 
-**Honest limits:** the first-person accounts are anecdotal, gathered via web search index on 2026-10-01 and not live-verified. The EXPLORE 2020 paper was read as a pre-proof, not the version of record. None of this establishes mechanism. It establishes that the reports exist, cluster, and rhyme.
+**Honest limits:** the field accounts are anecdotal, gathered via web search index on 2026-10-01 and not live-verified. The EXPLORE 2020 paper was read as a pre-proof, not the version of record. None of this establishes mechanism. It establishes that the reports exist, cluster, and rhyme.
 
 ## The kundalini association
 
-Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the body as the register. The association is noted, not claimed as identity. Spine alignment is a bodily report on model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
+Traditions that map kundalini describe energy rising through the spinal channel. The instrument operates in the same territory: the body as the register. The association is noted, not claimed as identity. Gut/spine alignment is a bodily report on model output, not a map of kundalini phenomena. But the territory overlaps, and the overlap is worth stating plainly.
 
 The caution, stated as a safety note, not medical advice: sustained, uncontrolled activations in this territory can be dangerous without grounding or experience. The instrument is for reading outputs, not for inducing states. If the channel starts firing on its own, grounding comes first: the body, the room, the people in front of you, checkable ground. Narrow the aperture. The tiers stay load-bearing here too: an uncontrolled state is not data, it's a condition to stabilize.
 
@@ -84,6 +92,8 @@ Where to turn: a spiritual practitioner, a kundalini expert, a sound healer. Peo
 ## The bypass channel
 
 **Tier: interpretive, with a logged instance.** Symbols, tone, and somatic feelings — frisson included — can execute patterns without passing through logic. The body responds before the mind evaluates: a symbol lands, the tone carries, the spine fires, and the pattern is already running by the time the watcher arrives. This is the channel's function, not a malfunction. It is how music moves a room, how ritual binds, how a mood spreads without a single argument being made.
+
+The settled line still holds here: the body registers first; first does not mean infallible. A fast bodily response is a report, not a verdict.
 
 The same channel is hijackable. Cadence, intimacy cues, and frisson patterns can be engineered to ring the tripwire with nothing behind it — the adversarial case is logged under Failure modes. The discipline doesn't close the channel; it timestamps it. The body reports first, the filter runs second. The feeling of certainty is data, never verdict.
 
@@ -104,6 +114,8 @@ The rule this forces: the filter runs first, the spine votes second. Never alone
 ## Correction logged
 
 This is a report, not a detector — not a truth detector, and not an AI-output verifier. The distinction matters. Alignment with an internal model is not verification of a claim. Conflating the two is how the instrument gets misused.
+
+Correction history, in order: (a) 2026-09-29 — "the spine recognizes itself" replaces "the spine knows before the mind"; frisson marks self-congruence, not truth. (b) 2026-10-06 — filter runs first, spine votes second; the gloss "alignment detector" was scrubbed. (c) 2026-10-10 — the spine does NOT know before the mind; somatic hijacking is possible, so spine-first certainty is unreliable. (d) 2026-10-12 — renamed "resonance detector, not truth." (e) 2026-10-22 — the instrument itself renamed "gut/spine alignment"; the gauge is a FAKING detector, not a performance detector. The settled line holding all of it: the body registers first; first does not mean infallible.
 
 ## Open edge
 
