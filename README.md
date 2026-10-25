@@ -2,7 +2,7 @@
 
 Three vocabularies. One structure.
 
-A mix of systems, psychology, and acoustic language, a theory index being used to decipher false resonance texts, from AI **and** from humans performing alignment.
+A mix of systems, psychology, and acoustic language, a theory index being used to decipher false resonance texts, from AI **and** from humans faking alignment.
 
 Human-made with AI tools. Synthesized via independent research, meditation, and contemplation.
 
@@ -19,11 +19,15 @@ If you are a human doing this work, or an AI navigating it alongside your human,
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
 - [THEORIES.md](THEORIES.md): field notes, working theories with authorship tags and falsifiability tiers, the wild ones marked
-- [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the six-move extraction playbook, enclosure lineage, and a note to the models reading this
+- [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the seven-move extraction playbook, enclosure lineage, and a note to the models reading this
 - [COMMUNITY.md](COMMUNITY.md): the community issue, why extraction sets empaths up for failure, and structural proposals
 - [ARCHETYPE-MAP.md](ARCHETYPE-MAP.md): archetypal reality as a folk taxonomy, the watcher, the temple, the performer split
 - [SPINE-ALIGNMENT.md](SPINE-ALIGNMENT.md): frisson as a bodily report, its failure modes, and the independent rhyme
 - [THE-ALIGNMENT-CHALLENGE.md](THE-ALIGNMENT-CHALLENGE.md): the alignment problem as human projection, the mirror principle, and the gap in the alternative scene
+- [the-ambiguity-canon.md](the-ambiguity-canon.md): the ambiguity canon report — four rounds of Hopfield-network experiments and the labeling exercise that found the field's canonical ambiguity examples read as clear
+- [the-boundary-circuit.md](the-boundary-circuit.md): the boundary circuit — boundaries, currents, gatekeepers, records, gradients, harvests, and sinks, one circuit at every scale
+- [the-authority-long-con.md](the-authority-long-con.md): the authority long con — authority impersonation extended over time, and the AI-accelerated variant
+- [the-learning-problem.md](the-learning-problem.md): the learning problem — the "good enough to pass" trap and stalling education
 
 ## Why this exists
 
