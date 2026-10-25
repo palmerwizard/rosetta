@@ -2,7 +2,7 @@
 
 *Work in progress. This report documents an ongoing project; findings,
 numbers, and conclusions will be revised as labeling continues and new
-annotators contribute. Last updated 2026-10-07.*
+annotators contribute. Last updated 2026-10-25.*
 
 A report on four rounds of computational experiments, one round of human
 labeling, and what the combination reveals about how linguistics and machine
@@ -165,7 +165,7 @@ form cannot explain what makes language effective, because it has defined the
 effective part out of scope.
 
 Second, it leaves the theory blind to the contemporary failure mode: fluent
-sentences carrying no meaning. Formulaic, performative, and machine-generated
+sentences carrying no meaning. Formulaic, faked, and machine-generated
 prose can be grammatically well-formed while semantically hollow. A framework
 that defines ambiguity as "too many readings" has no entry for "no reading,"
 and therefore cannot diagnose language whose problem is emptiness rather
