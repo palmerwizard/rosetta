@@ -118,6 +118,7 @@ The counter is escalation with a record. The performance requires an uninformed,
 
 ### The authorless operation
 
+**The gradient, defined.** An environmentally transferred pattern: a pattern that moves through the environment and shapes behavior without anyone authoring it. No one designs the outcome. The sum behaves as if someone planned it.
 **Tier: interpretive, structural.** A classic psyop has an author: an operator designs the operation, selects the audience, and aims at a specific effect. The platform version produces the same output with no author at all. No committee designs it. The incentive gradient designs it: maximize engagement; the most engaging material is confession; confessions are psychological data; the data trains the targeting; the targeting steers behavior. Every step is ordinary business. The sum is an influence operation running continuously on the whole population.
 
 The confession is the payload. A like is a confession of preference. A comment is a confession of position. A direct message is a confession with the expectation of privacy still attached. The system does not need to interrogate anyone; it builds rooms where people volunteer the material, rewards the volunteering with visibility, and files everything. What an intelligence service once spent budgets extracting, the feed collects as a byproduct of people trying to be seen.
@@ -183,6 +184,16 @@ The mechanism has a clinical name: moral disengagement, specifically attribution
 What it feeds: the sink. Every successful deception pays the deceiver now and charges the deceived later, and the difference collects where nothing returns.
 
 The discriminator: the rush is not a verdict. The same reward wiring fires for a move that lands and for a recognition that is true. A felt rush proves the move worked. It proves nothing about whether the move was right.
+
+### Who the gradient pays
+
+**Tier: interpretive, with checkable instances.** The reward circuit that pays the deceiver is not rare. Subclinical narcissistic traits run around 15 to 20 percent in general-population samples. The other dark-triad traits add their own share, and the fraction with any one trait elevated pushes toward a third [ESTIMATE]. The exact fraction depends on where the line is drawn. The point that holds is the distribution: a substantial minority runs reward circuits that pay out on extraction, admiration, control, status, rather than on reciprocation.
+
+The gradient tunes people, it does not sort them into kinds. The same wiring that pays one person for getting over pays another for giving back. The ones it pays for extraction are not broken. They are tuned to the gradient. Name the wiring, not the people: the circuit is the move, the person is the carrier.
+
+What it feeds: the sink. Every extraction that pays the extractor now charges the extracted later, and the difference collects where nothing returns. A population where a substantial minority of reward circuits pay out on taking is a population where the sink never runs dry.
+
+The discriminator: the wiring is not destiny. A circuit that pays out on extraction can be starved the same way the gradient can be starved, by pricing the move, by keeping the ledger, by building the counter-gradient. The tuning is real. So is the re-tuning.
 
 ## The applied form
 
