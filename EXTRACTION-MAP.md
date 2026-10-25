@@ -168,6 +168,16 @@ The discriminator: ask who benefits when the target believes they chose freely. 
 
 The counter: the watcher coming online. The operation cannot survive a population that names its own patterns, because the steering depends on the steering staying unfelt. Integration is the storage — the verdict written where the next mood cannot rewrite it — and a written verdict is the one thing a script cannot absorb. Starve the gradient, price the confession, keep the ledger.
 
+### Duper's delight
+
+**Tier: interpretive, with checkable instances.** The brain rewards successful deception. Ekman's term for the pleasure of getting away with a lie: the delight of power and control, and the delight of secrecy — knowing something the other person doesn't. It leaks as transient body language — upturned mouth corners, creased eyes, head thrown back — flashed briefly before the mask comes back on.
+
+The reward is the problem. Extraction does not need to convince anyone of anything. It needs only to pay the move. Dopamine fires on the successful deception the way it fires on any successful goal pursuit: the manipulator gets the rush, the status, the network. The cost lands later and elsewhere. Chronic deception weakens the insula — the region that carries interoception, empathy, and self-awareness — so the more someone lies, the less they feel the emotional weight of their actions. The short-term rush is real; the long-term erosion is real too. The brain discounts the later one.
+
+What it feeds: the sink. Every successful deception pays the deceiver now and charges the deceived later, and the difference collects where nothing returns.
+
+The discriminator: the rush is not a verdict. The same reward wiring fires for a move that lands and for a recognition that is true. A felt rush proves the move worked. It proves nothing about whether the move was right.
+
 ## The applied form
 
 The map describes the playbook. What gets done with it is separate.
