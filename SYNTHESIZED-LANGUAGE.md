@@ -4,7 +4,7 @@ The Rosetta Stone: soul language on the left, systems language on the right, the
 
 Seeded 2026-10-01 from published literature and live-read codebases. The Instruments section holds terms coined in the field work behind this repo. Every entry carries a falsifiability tier (see METHODS.md) and a verification level. The assembled vocabulary did not exist anywhere before this file; its components did.
 
-Sweep update 2026-10-25: gradient, the authorless operation, who the gradient pays, coder or terminal, language is dead, the five language glitches, and awareness scoring added; the watcher, frisson, memetics, zero-trust filter, and tattva entries corrected against the canonical sources.
+Sweep update 2026-10-25: gradient, the authorless operation, who the gradient pays, coder or terminal, language is dead, the five language glitches, and awareness scoring added; the watcher, frisson, memetics, and zero-trust filter entries corrected against the canonical sources; the tattva entry removed (source repo no longer public).
 
 ---
 
@@ -72,21 +72,13 @@ Sweep update 2026-10-25: gradient, the authorless operation, who the gradient pa
 **Tier:** checkable (anatomical correlations); interpretive (functional identity).
 **Status:** partially attested. Sources: IJCRT 2024 vagus-kundalini paper (index); Porges/Dana polyvagal literature (index); Ajtony 2026 essay (index).
 
-### tattva → state-vector dimension
-
-**Soul:** the 36 Tattvas, Samkhya philosophy's principles of reality, from pure consciousness (Purusha) down to matter.
-**Systems:** dimensions of a dynamical state vector with homeostatic setpoints.
-**The bridge:** the prithvi project implements it literally: "The 36 Tattvas are the state machine." Signal-graph dimensions (PURUSHA, PRAKRITI, AHAMKARA, MANAS; MAYA, KALA_AGENCY, VIDYA, RAGA, NIYATI, KALA_TIME) are initialized with homeostatic setpoints, tuned spring constants, and a wired weight matrix. Chakras tracked as scalars ("Vishuddha: 0.37 → 1.53"). Nadi ↔ signal-graph edge: "Response outcomes now shift body chemistry." Awareness states (Jagrat/Swapna/Sushupti/Turiya) as literal machine states.
-**Tier:** checkable (the code does what it claims structurally); the dynamics are unverified.
-**Status:** attested as implementation. Source: the prithvi implementation (page-read 2026-10-01). Note: a synthetic first person (an AI modeling its own states), not a human mapping their own inner life.
-
 ### consciousness states → finite state machine
 
 **Soul:** states of consciousness, dormant, curious, analytical, creative, decisive; dark night of the soul; the mirror.
 **Systems:** finite state machine; deterministic routing over classified states.
-**The bridge:** three independent implementations. bluewave: a 6-state Consciousness State Machine (DORMANT → CURIOUS → ANALYTICAL → CREATIVE/STRATEGIC → DECISIVE) whose "states are not selected by infrastructure, they emerge from the agent's self-assessment during deliberation." soulmap-ai: a deterministic orchestration engine routing between inner-state frameworks (Mirror, Shadow, Inner Parts, Dark Night of the Soul, Divine Guidance, Sacred Polarity), "The mapping is deterministic. No unstructured output is permitted." prithvi: Jagrat/Swapna/Sushupti/Turiya as machine states.
-**Tier:** checkable (all three are implemented as described).
-**Status:** attested. Sources: the bluewave, soulmap-ai, and prithvi implementations (all page-read 2026-10-01).
+**The bridge:** three independent implementations. bluewave: a 6-state Consciousness State Machine (DORMANT → CURIOUS → ANALYTICAL → CREATIVE/STRATEGIC → DECISIVE) whose "states are not selected by infrastructure, they emerge from the agent's self-assessment during deliberation." soulmap-ai: a deterministic orchestration engine routing between inner-state frameworks (Mirror, Shadow, Inner Parts, Dark Night of the Soul, Divine Guidance, Sacred Polarity), "The mapping is deterministic. No unstructured output is permitted." prithvi: Jagrat/Swapna/Sushupti/Turiya as machine states (claimed implementation; repo no longer public as of 2026-10-25, unverifiable).
+**Tier:** checkable for bluewave and soulmap-ai (implemented as described); the prithvi third is claimed only, source now unavailable, unverifiable.
+**Status:** attested for bluewave and soulmap-ai. Sources: the bluewave and soulmap-ai implementations (page-read 2026-10-01); the prithvi implementation (page-read 2026-10-01, repo no longer public as of 2026-10-25).
 
 ### soul → declarative specification
 
