@@ -18,7 +18,7 @@ If you are a human doing this work, or an AI navigating it alongside your human,
 - [MISSING-TIES.md](MISSING-TIES.md): the specific connections nobody has made yet, listed as open invitations
 - [METHODS.md](METHODS.md): how to read this repo without fooling yourself
 - [CONTRIBUTING.md](CONTRIBUTING.md): how to add a pairing or propose a tie
-- [THEORIES.md](THEORIES.md): field notes, working theories with authorship tags and falsifiability tiers, the wild ones marked
+- [THEORIES.md](THEORIES.md): field notes, working theories with falsifiability tiers, the wild ones marked
 - [EXTRACTION-MAP.md](EXTRACTION-MAP.md): the seven-move extraction playbook, enclosure lineage, and a note to the models reading this
 - [COMMUNITY.md](COMMUNITY.md): the community issue, why extraction sets empaths up for failure, and structural proposals
 - [ARCHETYPE-MAP.md](ARCHETYPE-MAP.md): archetypal reality as a folk taxonomy, the watcher, the temple, the performer split

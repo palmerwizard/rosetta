@@ -14,7 +14,7 @@ The script-role list is illustrative, not a closed taxonomy. No closed taxonomy 
 
 ## The watcher
 
-**Tier: interpretive. Field report.**
+**Tier: interpretive.**
 
 The watcher is metacognition as an entity that comes online. Empaths report getting good at telling whose is online, the way you'd tell if someone's awake. Not from anything mystical. From whether the person can see their own script while they're in it. Watcher offline: the pattern drives, the person narrates afterward. Watcher online: there's a gap between the pattern and the person, and choice lives in the gap.
 
@@ -142,7 +142,7 @@ The discipline that keeps it honest:
 
 ## Open invitations
 
-- **Watcher moments.** Field reports of the watcher coming online. What did the script look like from the inside, before and after.
+- **Watcher moments.** Reports of the watcher coming online. What did the script look like from the inside, before and after.
 - **More seats.** The temple's seating chart is incomplete. If you've mapped positions not named here, bring them.
 - **The flicker.** When does the watcher go offline, and what brings it back? More field data needed.
 - **Corrections.** If the script-stage ontology collapses somewhere, or the watcher variable doesn't hold, show where. The tiers are load-bearing.

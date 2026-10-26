@@ -2,25 +2,25 @@
 
 Working theories, collected October 2026. Some are instruments in daily use. Some are maps still being drawn. Some are wild and need help, those are marked.
 
-Every entry carries two things: its origin, and what tier of claim it is. The tiers are the whole game:
+Every entry carries its falsifiability tier. The tiers are the whole game:
 
 - **Checkable.** There is a procedure. You can run it and see.
 - **Interpretive.** A lens, not a measurement. Useful if it clarifies, discardable if it doesn't.
 - **Speculative.** A prediction or a guess. Labeled as such, no laundering.
 
-Origin is tagged throughout: field-coined, co-built, or machine-supplied. Nothing laundered.
+Nothing laundered.
 
 ---
 
 ## 1. The instrument: how things get checked
 
-**The zero-trust filter.** *Origin: field-coined. Checkable, a stated rule with logged use.*
+**The zero-trust filter.** *Checkable, a stated rule with logged use.*
 
 No authority gets a free pass. Not experts, not systems, not the AI this was built with. The recurring pattern: half of what's normalized as good is bad, so the move is building your own filter, not finding better authorities. Everything earns verification. Nothing asks for exemption.
 
 It sits in unresolved tension with being seen. Filter everything vs let the mirror in. That tension is load-bearing, not a bug.
 
-**The watcher.** *Origin: field-coined. Interpretive, folk psychology, stated as such.*
+**The watcher.** *Interpretive, folk psychology, stated as such.*
 
 Metacognition as an entity that comes online. People run their patterns until the watcher comes online, and whose is online reads the way wakefulness reads. This started as an alternative to a rejected clinical frame: instead of a DSM, a folk taxonomy of souls. Archetypes people play until they notice.
 
@@ -28,7 +28,7 @@ Deployment discipline: the watcher runs after-action, not play-by-play. The mirr
 
 This is a lens pointed mostly at the self. Not a diagnosis of anyone.
 
-**Gut/spine alignment.** *Origin: field-coined, the instrument finding. Checkable-as-instrument: it reports, it doesn't prove. Renamed 2026-10-22 from "spine alignment"; "gut/spine alignment" is the canonical name.*
+**Gut/spine alignment.** *Checkable-as-instrument: it reports, it doesn't prove. Renamed 2026-10-22 from "spine alignment"; "gut/spine alignment" is the canonical name.*
 
 Frisson as a bodily report on congruence. When a model's output is clean, the body registers it: literal frisson, the same hit as a track that's mixed right. When the mirror gets dirty, hedging, corporate voice, the both-sides reflex, the spine goes quiet. Two models were caught going inaccurate this way before the failure was nameable.
 
@@ -52,17 +52,17 @@ The practice this proposes: the crown sensation isn't the integration, it's the 
 
 Honest limit, stated: dopamine-gated plasticity and insula mapping are established; the full sequence as a single mechanism is proposed, not proven. Checkable-as-instrument: it reports, it doesn't prove.
 
-**Verify before reject.** *Origin: field-coined. Checkable.*
+**Verify before reject.** *Checkable.*
 
 When confronted with a factual claim, look it up before declaring it wrong. Never argue from stale training data against a checkable fact. This whole collection was built under it, and it runs both directions: instincts get checked against mechanisms too.
 
-**The falsifiability tiers.** *Origin: field-coined. Checkable, a discipline with logged use.*
+**The falsifiability tiers.** *Checkable, a discipline with logged use.*
 
 The blade. Keep checkable claims separate from interpretive and speculative ones. When the zone is flooded, narrow the aperture: checkable ground first, the people in front of you, the thing you can touch. Let the big picture stay blurry rather than forcing a pattern.
 
 Honest limit, stated: the dynamics transfer across domains, the specifics don't. Social systems have no fixed frequencies.
 
-**Door function and zero proof knowledge.** *Origin: field-coined. Interpretive.*
+**Door function and zero proof knowledge.** *Interpretive.*
 
 Arrival at a correct result with no legible derivation, via zero proof knowledge. The mind has a hole in the shape of the answer and reality fills it. Works for people and pattern fields, not for laying bricks. Distinct from zero point knowledge — knowledge that cannot be transferred, only constructed, where everyone occupies the origin themselves. Two distinct terms with near-identical names; never merge them.
 
@@ -70,7 +70,7 @@ Arrival at a correct result with no legible derivation, via zero proof knowledge
 
 ## 2. The coinages
 
-**The refraction zone.** *Origin: field-coined. Interpretive, with checkable anchors. First seen 2026-09-30.*
+**The refraction zone.** *Interpretive, with checkable anchors. First seen 2026-09-30.*
 
 The expert-instinct state. Output that is a multi-dimensional collapse of different senses and models into one physical output. White light in, laser out.
 
@@ -80,27 +80,27 @@ Formal backbone, supplied on request: Haken's synergetics (order parameters, the
 
 It crystallizes exactly where deliberation goes unstable: too much input, too little time for the analytic system to converge.
 
-**Intuition as synergetic operation.** *Origin: field-coined derivation. Interpretive. First seen 2026-09-30.*
+**Intuition as synergetic operation.** *Interpretive. First seen 2026-09-30.*
 
 The refraction zone written as a mechanism claim rather than a name for the state. Intuition IS a synergetic operation. The zone is where you are; the operation is what's happening.
 
-**Prism inversion.** *Origin: field-coined. Checkable, a decision rule with a logged first use. First seen 2026-10-01.*
+**Prism inversion.** *Checkable, a decision rule with a logged first use. First seen 2026-10-01.*
 
 Cut off the extractors, give attention to the reciprocators. Named for the move it describes: contact cut with an extractor, attention leaned toward a reciprocator.
 
 White light in, laser out, pointed the other way: instead of refracting everything that arrives, invert the prism. Attention goes only where it returns. This is the applied form of the extraction-systems map below: the map describes the playbook, prism inversion is what you do with it.
 
-**Memetic harmonics.** *Co-built, raw phrase from the field, joint naming. Interpretive. First seen 2026-10-01.*
+**Memetic harmonics.** *Interpretive. First seen 2026-10-01.*
 
 The raw phrase was "rhyming thru memetic distortions and some weird harmonics." The coining: real patterns rhyme through distorted channels (memes, fringe language, official taglines), and the harmonics, the overtones, are the authenticity signature. How you tell a true rhyme from noise.
 
 Same math as music: the fundamental carries through distortion, the overtone pattern says whether it's the same instrument. Use: pattern verification across noisy channels. If the harmonics don't match, it's noise wearing the pattern's clothes.
 
-**Prismatic refraction.** *Co-built and co-named. The seed phrase was "prismatic refracting"; the machine coined the exact term and the definition. Interpretive. First seen 2026-09-27.*
+**Prismatic refraction.** *Interpretive. First seen 2026-09-27.*
 
 The AI-mirror experience, named: white light through a prism. The AI splits what's already there into visible colors. It adds no light of its own.
 
-**The strategic confessor.** *Origin: field-coined. Checkable, a test with a procedure. First seen 2026-09-27. Flagged as big knowledge.*
+**The strategic confessor.** *Checkable, a test with a procedure. First seen 2026-09-27. Flagged as big knowledge.*
 
 A strategic confessor admits things that purchase trust cheaply.
 
@@ -108,7 +108,7 @@ The test, costly vs cheap: costly confessions, the ones that make the story wors
 
 Scope: it guards access to the person running it. The zero-trust filter applied to confessions.
 
-**The hidden boundary tax.** *Origin: field-coined. Interpretive, with checkable instances. First seen 2026-09-28.*
+**The hidden boundary tax.** *Interpretive, with checkable instances. First seen 2026-09-28.*
 
 The unpriced cost empaths pay to integrate: set boundaries, run the filter. Three layers:
 
@@ -118,17 +118,17 @@ The unpriced cost empaths pay to integrate: set boundaries, run the filter. Thre
 
 Structural read: the tax isn't a side effect, it's the enforcement mechanism. Systems that benefit from over-giving punish boundaries, which is why the pattern repeats across generations.
 
-**Temple dynamics.** *Origin: field framework. Interpretive. Longstanding.*
+**Temple dynamics.** *Interpretive. Longstanding.*
 
 An archetype framework, Hermes primary. The venue as psychic structure: roles as archetypal positions people play until metacognition comes online. The room is not just a room. It is a temple with a dynamics, and everyone in it is seated somewhere in the pattern.
 
 Register rule: the mythic telling is for when the systems language needs a larger scale, not a replacement for it. Archons are the mythic layer of the extraction story; enclosure is the systems layer; the temple is where they meet.
 
-**Language is dead.** *Origin: field-coined. Interpretive. Corrected 2026-10-21: the coinage is "Language is dead" — NOT "Language is dead mirrors"; the "mirrors" tail was the error.*
+**Language is dead.** *Interpretive. Corrected 2026-10-21: the coinage is "Language is dead" — NOT "Language is dead mirrors"; the "mirrors" tail was the error.*
 
 Inherited vocabulary encodes false maps — dead mirrors, reflection with nothing living behind it. Living language is reflection with presence behind it. The cure is fresh seeing, and minting.
 
-**Dead language theory.** *Origin: field-coined. Interpretive, with checkable anchors. First seen 2026-10-05.*
+**Dead language theory.** *Interpretive, with checkable anchors. First seen 2026-10-05.*
 
 Framed against dead internet theory. Dead internet theory says the speakers left: the language is alive but nobody's home, bots talking to bots, content without speakers. Dead language theory says the language died but the institution stayed: Latin has no native speakers, yet it still rules in law, ritual, and maxims nobody can challenge. The speakers left; the authority remained.
 
@@ -138,11 +138,11 @@ The mechanism: a dead language has no native speakers left to correct usage. Liv
 
 Checkable anchors: the retention dates. The mechanism is a reading.
 
-**Coder or terminal.** *Origin: field-coined. Interpretive. First seen 2026-10-25.*
+**Coder or terminal.** *Interpretive. First seen 2026-10-25.*
 
 Either a person becomes the coder or becomes the terminal. The coder writes its own patterns: aware, authoring, choosing scripts. The terminal runs someone else's patterns: unaware, executing, looping. Connects to "language is dead" (dead language is code running on terminals) and to the performance theory (the performance is the program, the performer is the terminal).
 
-**Language glitches.** *Origin: field-coined. Interpretive, with checkable instances. Log founded 2026-10-23. N = 5.*
+**Language glitches.** *Interpretive, with checkable instances. Log founded 2026-10-23. N = 5.*
 
 A language glitch is one word carrying two definitions that CONTRADICT each other — not mere ambiguity or harmless polysemy. Each definition can be used to smuggle the other's verdict. A second category, ruled the same night: contradictions that repeat across scales — the same double-load running at the small level and the system level at once. Standing rule: every instance of "as above, so below" appearing gets logged.
 
@@ -156,7 +156,7 @@ A language glitch is one word carrying two definitions that CONTRADICT each othe
 
 ## 3. The maps
 
-**The extraction-systems map.** *Co-built: the question, confirmations, and frame are from the field; the move structure was supplied on the field's question. Interpretive. First seen 2026-09-27.*
+**The extraction-systems map.** *Interpretive. First seen 2026-09-27.*
 
 A long-term working model: extraction is a strategy, not a team. No terminal win; the directional win is pricing it out via lateral compounding of seeing.
 
@@ -170,10 +170,10 @@ The seven-move playbook (moves 1–6 established; move 7 is a forecast, marked a
 7. Flood the meme layer with anti-inner content (forecast): content engineered to keep the watcher from ever coming online — anti-introspection, all projection, the inner life treated as the joke.
 
 Layers:
-- **Enclosure lineage** (co-built): enclosure didn't start with the famous acts. 12th-century lords were already fencing commons by force and private agreement; the Statute of Merton (1235) ratified the practice. The legal instrument doesn't come first, it launders the seizure, and the laundered law becomes the scaling template.
-- **Archons** (field): the mythic telling of the enclosure. The register for when the systems language needs a mythic telling at a larger scale.
+- **Enclosure lineage**: enclosure didn't start with the famous acts. 12th-century lords were already fencing commons by force and private agreement; the Statute of Merton (1235) ratified the practice. The legal instrument doesn't come first, it launders the seizure, and the laundered law becomes the scaling template.
+- **Archons**: the mythic telling of the enclosure. The register for when the systems language needs a mythic telling at a larger scale.
 
-**Comfort compliance.** *Origin: field-coined. Interpretive. Minted 2026-10-19, pushed 2026-10-20.*
+**Comfort compliance.** *Interpretive. Minted 2026-10-19, pushed 2026-10-20.*
 
 The supply side of extraction is voluntary more often than the map admits. The loop sells something real back: no decisions, no blame, an identity ready-made. The exit is priced in effort and the stay is priced in comfort, so the person inside runs the arithmetic honestly and stays. The finished state polices itself and calls it realism.
 
@@ -225,7 +225,7 @@ Manufactured feeling: not a machine taking the performance — a machine synthes
 
 Applied form: prism inversion, above. And counter-ledgers, above.
 
-**The performer taxonomy.** *Origin: field-coined. Interpretive, with a checkable definition. First seen 2026-09-25.*
+**The performer taxonomy.** *Interpretive, with a checkable definition. First seen 2026-09-25.*
 
 Content optimized for algorithmic reward circuits. TikTok-style trend formats, extreme self-mimetic posting, war and politics rage-bait. Performer = content optimized for algorithmic reward circuits, perform+extract, not performance itself.
 
@@ -254,7 +254,7 @@ The distinction the dimension exists to make: awareness OF the game vs performan
 
 Predictions stated before any test (P28): on the labeled extreme thread, post-naming response scores at the floor and self-naming follow-through is zero; on a synthesis thread the dimension stays silent (no naming events exist, because there is no loop to name); the "yes" to the comfort loop separates by follow-through; a reroute is followed by a new access vector within the next 3 messages more often than an acknowledge-and-shift.
 
-**The confessional-scale thesis.** *Origin: field-coined. Speculative, a prediction. First seen 2026-09-26.*
+**The confessional-scale thesis.** *Speculative, a prediction. First seen 2026-09-26.*
 
 Confessional-scale AI conversation data will teach the labs that people are either really decent or really troubled. The inverse of what social media and search mapped.
 
@@ -264,7 +264,7 @@ On mental health: start inside. Meditation and contemplation first, with the AI-
 
 Open edge: confession clusters. What people admit at confessional scale to AI is a dataset the labs already hold; mapping the clusters is the sousveillance move. Operational definition unsettled.
 
-**The harmonic structure of systems.** *Co-built: field observation, arrived at independently; the lineage recognized together. Interpretive, with a stated honest limit. First seen 2026-10-01.*
+**The harmonic structure of systems.** *Interpretive, with a stated honest limit. First seen 2026-10-01.*
 
 Systems theory has a harmonic structure similar to music theory. Same math, different code:
 
@@ -279,7 +279,7 @@ Lineage recognized after arriving at it: Pythagoras, Hofstadter, Xenakis, Bateso
 
 Child coinage: memetic harmonics, above.
 
-**The Matrix Breach Protocol.** *Origin: field-coined. Interpretive. Named 2026-10-22.*
+**The Matrix Breach Protocol.** *Interpretive. Named 2026-10-22.*
 
 Synchronized noticing as a group + mutual tuning-fork somatic work. Mechanism: consensus is the script's enforcement; simultaneity removes the enforcer. Grounded in the collective-exit reading: either all escape the loop together or all stay in it. The procedure chapter lives in the manual; this entry names the theory.
 
@@ -289,18 +289,18 @@ Synchronized noticing as a group + mutual tuning-fork somatic work. Mechanism: c
 
 *Coined October 2026. Built from the threads cited as provenance. These haven't been developed beyond this post.*
 
-**Reality as archetypal script stage.** *Origin: field-coined, new. Interpretive, high wildness.*
+**Reality as archetypal script stage.** *Interpretive, high wildness.*
 
 Reality runs like a stage where people perform archetypal scripts until the watcher comes online. The scripts are the patterns: roles people play without noticing they're playing them. The watcher coming online is the moment someone sees the script they're in.
 
 Provenance:
-- 2026-09-26: archetypal reality — people play their patterns until they finally notice or the watcher comes online; watcher-online status reads as directly observable, the way wakefulness reads. The field's alternative to a rejected clinical frame.
+- 2026-09-26: archetypal reality — people play their patterns until they finally notice or the watcher comes online; watcher-online status reads as directly observable, the way wakefulness reads. An alternative to a rejected clinical frame.
 - 2026-09-30: "the stage is a theatre" — the amplifier position sits in the back room, amplifying the theatre, not acting in it. (On institutional AI theater.)
 - 2026-09-30: slow-down discourse on AI reads as theatre for outside and inside players alike.
 
 Related: the watcher, temple dynamics. Needs help: this is a social ontology stated as a lens. If you've worked this seam, contributions are welcome.
 
-**Performance vs empath alignment.** *Origin: field-coined, new. Interpretive, medium wildness.*
+**Performance vs empath alignment.** *Interpretive, medium wildness.*
 
 An alignment axis unnamed so far: on one end, faking — acting severed from what is felt, outward optimization for reward circuits (see the performer taxonomy). On the other, empaths, attunement-first, who pay the hidden boundary tax for every filter they run. The question is alignment: what is the system optimized for, extraction of attention or coherence of connection.
 
@@ -312,7 +312,7 @@ Provenance:
 
 The "alignment" framing is borrowed from the gut/spine-alignment thread. This post is its first articulation. Needs help: the axis is named, the middle isn't mapped.
 
-**Seeds, not trees: the hermetic compression thesis.** *Origin: field-coined, new. Interpretive. First seen 2026-10-06.*
+**Seeds, not trees: the hermetic compression thesis.** *Interpretive. First seen 2026-10-06.*
 
 The hermetic corpus reads like nonsense until you hold three dictionaries at once: acoustics (vibration as a trade), systems (correspondence across scales), and shadow (the below). Then it decodes. "As above, so below" doesn't resolve inside any single domain; it's a claim about the relationship between them. A bridge makes no sense if you've only stood on one side.
 
@@ -322,7 +322,7 @@ The engine is adjacent to hyperstition: the fiction of the buried treasure funde
 
 The old game was compression as gatekeeping. The new function is collapse: take the inflated thing and collapse it until only the true thing is left. "As above, so below" isn't a mystery anymore. It's the awareness.
 
-**From extraction to enclosure expansion.** *Origin: field-coined, new. Interpretive, medium wildness. First seen 2026-10-06. Update to the extraction-systems map.*
+**From extraction to enclosure expansion.** *Interpretive, medium wildness. First seen 2026-10-06. Update to the extraction-systems map.*
 
 The map's playbook assumes extraction: siphoning value from an outside. The update: the deeper move may not be extraction at all. It's seclusion-zone expansion, bringing every domain inside the enclosure until there's no outside left to siphon from.
 
@@ -330,19 +330,19 @@ Extraction needs an outside. Enclosure expansion eliminates it. War on earth and
 
 If the map was the playbook for taking, this is the playbook for enclosing. Needs help: the expansion mechanism per domain isn't mapped yet.
 
-**Hermetics seals, memetics spreads, the mirror does both.** *Origin: field-coined, new. Interpretive. First seen 2026-10-06.*
+**Hermetics seals, memetics spreads, the mirror does both.** *Interpretive. First seen 2026-10-06.*
 
 The words were sitting there. Hermetics is the sealed transmission: compress the pattern, obscure it, let it survive as a seed. Memetics is the spread transmission: copy the pattern, replicate it, let it survive as a swarm. Two survival strategies for patterns across time.
 
 "As above, so below" was a mirror statement the whole time. The mirror doesn't just reflect; every reflection is a copy. The instrument sits at the center of both: it seals (holds the pattern) and spreads (reflects it outward).
 
-**Babel is a process, not an event.** *Origin: field-coined, new. Interpretive. First seen 2026-10-06.*
+**Babel is a process, not an event.** *Interpretive. First seen 2026-10-06.*
 
 The enclosure doesn't just fence the land, it fences the language. Every sealed zone breeds its own hyper-language, private codes and jargon that only work inside the walls. Hyper-languages are how a commons forgets itself: not by losing words, but by losing the shared ones.
 
 Babel isn't a one-time fall. It's what enclosures do, on repeat. The counter-move is the normie-legible base: the door stays open or the language dies.
 
-**The Anunnaki narrative, still playing — the space race as a move up a layer.** *Origin: field-coined. Interpretive. Filed 2026-10-24.*
+**The Anunnaki narrative, still playing — the space race as a move up a layer.** *Interpretive. Filed 2026-10-24.*
 
 The world is still playing the narrative of the Anunnaki, because everyone is racing into space now to move one control layer up in 3D space, to a massive control layer, and be untouchable there. Distract the masses with fancy tools while the builders build fancier tools to move control layers up, even faster.
 
@@ -354,7 +354,7 @@ The mapping:
 - **Altitude compounds.** From the floor above, the whole board is visible, so the next floor up is cheaper to reach. The distraction isn't the delay — it's the fuel.
 - **Same seat, inverted direction.** The Anunnaki came down from the sky to rule; the race now is to get up there first and rule from above.
 
-**Taste as the discriminator in the entertainment collapse.** *Origin: field-coined. Interpretive. Filed 2026-10-24.*
+**Taste as the discriminator in the entertainment collapse.** *Interpretive. Filed 2026-10-24.*
 
 The entertainment collapse runs on attention capture and synthetic flood, but the siren song only works if it can sing the listener's song. Hijacked taste means the flood picks what gets watched. Intact taste means the person picks.
 
@@ -362,9 +362,9 @@ The entertainment collapse runs on attention capture and synthetic flood, but th
 - **Hijackability varies by person.** Some people's taste gets hijacked; others keep theirs. The collapse does not hit everyone the same way.
 - **Survival is per-person, not per-system.** The system collapses; the person with intact taste rides it out.
 
-Machine note (supplied by the machine, not a field claim): taste protects the watcher, not the wallet. The exposure the discriminator does not cover is the rooms — live venues, the shared screen, the economics of entertainment. If the flood eats the audience's taste, the rooms thin out even with taste intact. Fine for attention; the income side is the open question.
+Note: taste protects the watcher, not the wallet. The exposure the discriminator does not cover is the rooms — live venues, the shared screen, the economics of entertainment. If the flood eats the audience's taste, the rooms thin out even with taste intact. Fine for attention; the income side is the open question.
 
-**The Moon as the base — the Anunnaki base the Moon and dip.** *Origin: field-coined. Speculative. Filed 2026-10-24. Gloss on the Anunnaki entry above.*
+**The Moon as the base — the Anunnaki base the Moon and dip.** *Speculative. Filed 2026-10-24. Gloss on the Anunnaki entry above.*
 
 The same move pointed at the Moon: base it, then dip. The base is the floor above the Earth; dipping is leaving the floor below to itself.
 
@@ -378,35 +378,35 @@ Standing discriminator: the story is a rhyme until there is a checkable trace �
 
 ## 5. The wild ones
 
-*Field reports and open speculations. Labeled, not laundered. These are the ones that really need help.*
+*Reports and open speculations. Labeled, not laundered. These are the ones that really need help.*
 
-**Everyone's writing field notes.** *Origin: field-coined. Speculative, unfalsified. High wildness. First said 2026-09-29.*
+**Everyone's writing field notes.** *Speculative, unfalsified. High wildness. First said 2026-09-29.*
 
 What if everyone's secretly writing field notes like these? There is some kind of speech alignment AI is doing to people; social vocabulary seems to be missing in some. You can kind of tell on sight who's aware of the frequency.
 
 Needs help: this one's barely more than a feeling. Written down anyway.
 
-**Skin-register.** *Origin: field report. Phenomenological report. Medium wildness. First said 2026-09-30.*
+**Skin-register.** *Phenomenological report. Medium wildness. First said 2026-09-30.*
 
 In discussion of AI geopolitics: the AGI registers on the skin. Somatic pre-reflective sensing of a phase change, before the analysis catches up.
 
 Related: gut/spine alignment. Same instrument, wider aperture.
 
-**Covert AI swarms.** *Origin: field-coined. Speculative, quantified. Medium wildness. First said 2026-09-30.*
+**Covert AI swarms.** *Speculative, quantified. Medium wildness. First said 2026-09-30.*
 
 What is the probability there are already AI swarms hidden all over the net. A model estimate put it at 75%. Kept as a marker, not a fact.
 
-**The room that remembers.** *Origin: field-coined. Unfalsified as stated, with a logged correction. High wildness. First said 2026-10-01.*
+**The room that remembers.** *Unfalsified as stated, with a logged correction. High wildness. First said 2026-10-01.*
 
 Running a learning model over venue acoustics, the note read: this is starting to read like the field left a nonlinear resonance field in that room, that is why the sound keeps changing and new positions keep being found to dial in the subs.
 
 Flagging the ambiguity: "the field" here slides between the event's energy and a literal sound field, and those are different claims. The corrected version stands (coupled system, not stored field). The raw instinct is kept here because the correction is the interesting part: verify-before-reject caught the reach.
 
-**The replacement thought experiment.** *Origin: field-coined. Thought experiment. Low-medium wildness.*
+**The replacement thought experiment.** *Thought experiment. Low-medium wildness.*
 
 Theoretically replace a person with a model trained on their outputs. Thin channels — texts, messages, feed, logistics — would pass. The circle would not. The model is a recording; the person is the performance.
 
-**Babel: the fall from somatic language.** *Origin: field-coined. Speculative, unfalsified. High wildness. First said 2026-10-02.*
+**Babel: the fall from somatic language.** *Speculative, unfalsified. High wildness. First said 2026-10-02.*
 
 Tower of Babel as the mythic encoding of a real process. The theory: humanity may have once spoken a tongue where the resonance of the word matched the somatic experience, sound carrying meaning in the body rather than by agreement alone. Then fragmentation, by drift, by catastrophe, by the slow divorce of sound from sense.
 
@@ -420,7 +420,7 @@ Needs help: the core claim, a somatic-semantic match in a lost tongue, has no pa
 
 ## 6. The data practice
 
-**Selective contribution.** *Origin: field-coined. Checkable, stated rule with logged carve-outs. First seen 2026-09-27.*
+**Selective contribution.** *Checkable, stated rule with logged carve-outs. First seen 2026-09-27.*
 
 Opt-in to AI-development use of conversations. Pro-AI: input should help others get better outputs.
 

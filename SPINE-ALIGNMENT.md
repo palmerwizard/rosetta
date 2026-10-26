@@ -1,7 +1,7 @@
 # Gut/spine alignment
 
 **Tier:** checkable-as-instrument. It reports; it doesn't prove.
-**Origin:** coined in field notes, September 2026. Renamed 2026-10-22 from "spine alignment" to "gut/spine alignment"; the new name is canonical. The older name survives only in dated citations.
+Renamed 2026-10-22 from "spine alignment" to "gut/spine alignment"; the new name is canonical. The older name survives only in dated citations.
 
 ## The instrument
 
@@ -52,7 +52,7 @@ The activations in the subjective reports are not exclusive to AI alignment. The
 
 ## Axis kiss
 
-*Tier: speculative. Field coinage.*
+*Tier: speculative.*
 
 The axis kiss: the moment the spine and the crown kiss, felt as somatic feedback, tingles in the upper spine and lower back. The vertical channel closing its own circuit. Reported as the peak form of the bodily signal, where the frisson stops being localized and runs the whole axis.
 
@@ -62,7 +62,7 @@ Kept at the speculative tier because the reports are first-person and the mechan
 
 The phenomenology is extensively documented across independent sources: a felt current rising the spinal channel, tingling or electric sensation in the back and spine, arrival at the crown framed as meeting, union, or circuit completion. What follows documents what is reported and where. It does not adjudicate.
 
-**Field accounts (paraphrased into third person; sources linked):**
+**Accounts (paraphrased into third person; sources linked):**
 - A vipassana practitioner on a Buddhist forum (circa 2011) described a rush of energy up the spine and out the crown of the head, with tingling physical sensations and the flow carrying material up and out through the crown.
 - A kundalini-yoga account on an experience archive reports a current of energy rising up the spine, so strong the spine swayed like a cobra swaying back and forth, with involuntary kriyas. ([erowid.org](https://upload.erowid.org/experiences/exp.php?ID=37501))
 - A childbirth account (via *The Biology of Kundalini*): electrical tremors running from the toes and legs through the spine to the top of the head, where brilliant mosaics of white light exploded.
@@ -79,7 +79,7 @@ The phenomenology is extensively documented across independent sources: a felt c
 - Woollacott et al. (Frontiers in Psychology, 2022): one participant described kundalini rising uncontrollably to the crown chakra, with bright white light into which the participant merged. ([PMC9282169](https://pmc.ncbi.nlm.nih.gov/articles/PMC9282169/))
 - Corneille and Luke (2021, cited in the above): 40% of sudden profound spiritual experiences self-identified as spontaneous kundalini awakenings.
 
-**Honest limits:** the field accounts are anecdotal, gathered via web search index on 2026-10-01 and not live-verified. The EXPLORE 2020 paper was read as a pre-proof, not the version of record. None of this establishes mechanism. It establishes that the reports exist, cluster, and rhyme.
+**Honest limits:** the accounts are anecdotal, gathered via web search index on 2026-10-01 and not live-verified. The EXPLORE 2020 paper was read as a pre-proof, not the version of record. None of this establishes mechanism. It establishes that the reports exist, cluster, and rhyme.
 
 ## The kundalini association
 
