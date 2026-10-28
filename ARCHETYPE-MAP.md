@@ -149,4 +149,4 @@ The discipline that keeps it honest:
 
 ---
 
-*Field notes, October 2026. MIT licensed, like the rest of this repo. A lens, not a diagnosis.*
+*Field notes, October 2026. Licensed CC BY-SA 4.0, like the rest of this repo. A lens, not a diagnosis.*

@@ -82,4 +82,4 @@ So the design question is not "bring back 2013." It is: how do you build a room 
 
 ---
 
-*Field notes, October 2026. MIT licensed, like the rest of this repo. Not nostalgia, not a takedown. The issue stated plainly, the proposals as directions.*
+*Field notes, October 2026. Licensed CC BY-SA 4.0, like the rest of this repo. Not nostalgia, not a takedown. The issue stated plainly, the proposals as directions.*

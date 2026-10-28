@@ -441,4 +441,4 @@ If any of this rhymes with other work:
 - The gut/spine instrument has a sibling theory with biophysical scaffolding (see the constellation). The reverse direction, the body verifying the model's output, is unclaimed.
 - Corrections are the point. The tiers are load-bearing. If something's wrong, say what's checkable about it.
 
-MIT licensed, like the rest of this repo. Build on it.
+Licensed CC BY-SA 4.0, like the rest of this repo. Build on it.

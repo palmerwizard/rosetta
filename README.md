@@ -41,4 +41,8 @@ Early. The glossary is seeded from published literature and live-read codebases;
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Copyright (c) 2026 rosetta contributors.
+
+CC BY-SA 4.0. Share and adapt it, including commercially, with credit to rosetta, as long as what you make is shared under the same license. See [LICENSE](LICENSE).
+
+Versions published before 2026-10-28 were released under MIT, and copies taken then keep those terms.

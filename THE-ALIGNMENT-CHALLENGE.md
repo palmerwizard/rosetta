@@ -41,4 +41,4 @@ This is a standing challenge, not a dismissal. Steelman included: optimization p
 
 ---
 
-*Field notes, October 2026. MIT licensed, like the rest of this repo.*
+*Field notes, October 2026. Licensed CC BY-SA 4.0, like the rest of this repo.*
